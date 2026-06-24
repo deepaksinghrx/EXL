@@ -1,0 +1,10 @@
+Age,Gender,Treatment,BP_Before,BP_After,PainScore,RecoveryDays,Recovered,BP_Reduction
+45,M,A,150,135,3,10,No,15
+50,F,A,160,140,2,12,No,20
+42,M,A,145,130,4,9,No,15
+48,F,B,155,125,1,7,Yes,30
+52,M,B,165,130,2,8,No,35
+46,F,B,150,120,1,6,Yes,30
+44,M,C,158,118,1,5,Yes,40
+49,F,C,162,122,2,6,Yes,40
+51,M,C,170,125,1,5,Yes,45
