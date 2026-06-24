@@ -1,0 +1,7 @@
+job_role,education,monthly_income,marital_status,interaction
+sales executive,marketing,10000,married,1
+manager,medical,500000,single,0
+research scientist,life science,43217,divorced,0
+laboratory technician,life science,1000,single,1
+sales executive,marketing,100000,married,0
+manager,life science,50000,married,0

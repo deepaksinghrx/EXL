@@ -1,0 +1,29 @@
+Esmbel learing 
+it is model which is used to predict of differernt model by combining induvidual model  to more felible means leass bias , less varience and more accuracy
+
+differnnce in ppl
+differnce in hypothesis
+
+
+avergae learing,voting,weighted average 
+
+bagging,boosting methods
+
+
+boosting not good in real time computional
+
+
+
+
+
+
+assume we have emmplye data
+job_role,education,montly_income, marital_status,interaction
+sales executive,marketing,10000,married,1
+manager,medical,500000,single,0
+reserascrh scitenc, life science, 43217,divorced,0
+labotary technician,life science, 1000,single,1
+sales executive,marketing,100000,married,0
+manager,life science, 50000,married,0
+
+salex, lefice,4000, single

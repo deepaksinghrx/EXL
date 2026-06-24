@@ -1,0 +1,36 @@
+{
+    "patients": [
+        {
+            "patient_id": 1,
+            "age": 45,
+            "gender": "Male",
+            "diagnosis": "Diabetes",
+            "treatment": "Insulin",
+            "outcome": "Improved"
+        },
+        {
+            "patient_id": 2,
+            "age": 60,
+            "gender": "Female",
+            "diagnosis": "Hypertension",
+            "treatment": "ACE Inhibitors",
+            "outcome": "Stable"
+        },
+        {
+            "patient_id": 3,
+            "age": 30,
+            "gender": "Male",
+            "diagnosis": "Asthma",
+            "treatment": "Inhalers",
+            "outcome": "Improved"
+        },
+        {
+            "patient_id": 4,
+            "age": 50,
+            "gender": "Female",
+            "diagnosis": "Heart Disease",
+            "treatment": "Beta Blockers",
+            "outcome": "Deteriorated"
+        }
+    ]
+}

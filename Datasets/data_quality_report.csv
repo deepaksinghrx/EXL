@@ -1,0 +1,16 @@
+,Missing_Count,Missing_Percentage
+discount_pct,50,1.0
+customer_age,50,1.0
+customer_id,0,0.0
+timestamp,0,0.0
+product_category,0,0.0
+product_price,0,0.0
+transaction_id,0,0.0
+quantity,0,0.0
+is_returning_customer,0,0.0
+device_type,0,0.0
+region,0,0.0
+payment_method,0,0.0
+total_price,0,0.0
+final_price,0,0.0
+date,0,0.0

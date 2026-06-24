@@ -1,0 +1,11 @@
+Variable1,Variable2,Correlation
+final_price,total_price,0.9961821936650589
+total_price,final_price,0.9961821936650589
+product_price,total_price,0.8080620385434634
+total_price,product_price,0.8080620385434634
+final_price,product_price,0.8038618500287612
+product_price,final_price,0.8038618500287612
+quantity,total_price,0.4544013579260511
+total_price,quantity,0.4544013579260511
+final_price,quantity,0.4526155171784913
+quantity,final_price,0.4526155171784913

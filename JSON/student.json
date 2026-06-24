@@ -1,0 +1,30 @@
+{
+    "name": "Deepak",
+    "age": 25,
+    "department": [
+        {
+            "name": "Computer Science",
+            "code": "CS"
+        },
+        {
+            "name": "Mathematics",
+            "code": "MA"
+        }
+    ],
+    "order": [
+        {
+            "id": 1,
+            "item": "Book",
+            "quantity": 2
+        },
+        {
+            "id": 2,
+            "item": "Pen",
+            "quantity": 5
+        }
+    ],
+    "payment": {
+        "method": "Credit Card",
+        "amount": 50.75
+    }
+}

@@ -1,0 +1,6 @@
+id,age,conditions,gender,visit,cost
+101,23,diabetic,M,1,1000
+102,34,hypertension,F,2,2200
+103,45,asthma,M,3,1450
+104,56,fever,F,1,3400
+105,67,ocd,M,5,2500

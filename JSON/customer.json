@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "name": "John Smith",
+        "status": "active",
+        "email": "john.smith@example.com"
+    },
+    {
+        "id": 102,
+        "name": "Emma Johnson",
+        "status": "inactive",
+        "email": "emma.johnson@example.com"
+    },
+    {
+        "id": 103,
+        "name": "Michael Brown",
+        "status": "active",
+        "email": "michael.brown@example.com"
+    },
+    {
+        "id": 104,
+        "name": "Sophia Davis",
+        "status": "active",
+        "email": "sophia.davis@example.com"
+    },
+    {
+        "id": 105,
+        "name": "William Wilson",
+        "status": "inactive",
+        "email": "william.wilson@example.com"
+    }
+]

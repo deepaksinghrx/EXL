@@ -1,0 +1,501 @@
+patient_id,name,age,gender,diagnosis,department,ward,admission_score,discharge_score,los_days,readmitted,cost_usd,bmi,systolic_bp,diastolic_bp,heart_rate,hba1c
+EXL0001,Patient AA,-5,Female,Cardiac Arrhythmia,Pulmonology,HDU,34.2,57.1,17.0,False,47715.72,20.8,119.0,115.0,111.0,5.4
+EXL0002,Patient BA,32,Female,Cardiac Arrhythmia,Endocrinology,Ward-B,51.0,65.8,26.0,False,31863.82,200.0,172.0,62.0,53.0,
+EXL0003,  patient bb  ,78,Female,COPD,General Medicine,Day-Care,97.1,56.1,44.0,False,66886.84,26.5,138.0,102.0,105.0,6.7
+EXL0004,Patient DA,38,MALE,COPD,Psychiatry,Ward-A,39.9,87.3,7.0,True,21861.47,31.9,178.0,108.0,97.0,9.6
+EXL0005,Patient EA,41,Non-Binary,Anaemia,Psychiatry,ICU,30.7,74.4,42.0,False,79836.62,40.4,105.0,114.0,62.0,0.1
+EXL0006,Patient FA,20,Male,Chronic Kidney Disease,Pulmonology,Emergency,53.5,79.5,26.0,False,76041.75,19.7,140.0,85.0,87.0,12.5
+EXL0007,Patient GA,39,Non-Binary,COPD,Orthopaedics,Day-Care,83.2,55.1,25.0,True,29017.09,39.2,161.0,94.0,79.0,6.6
+EXL0008,Patient HA,70,Male,Anaemia,Endocrinology,Day-Care,66.6,53.2,10.0,False,62139.69,41.0,171.0,67.0,107.0,6.7
+EXL0009,Patient IA,19,Non-Binary,Asthma,Neurology,ICU,74.5,69.3,19.0,True,48937.36,20.4,181.0,111.0,122.0,11.9
+EXL0010,Patient JA,47,Male,Obesity,Psychiatry,Day-Care,35.2,84.3,11.0,False,29031.37,40.7,169.0,95.0,,4.7
+EXL0011,Patient KA,55,Female,Obesity,General Medicine,Ward-A,69.5,71.5,13.0,True,84030.08,44.8,,112.0,85.0,10.1
+EXL0012,Patient LA,19,Male,Asthma,Nephrology,Ward-A,45.9,42.0,8.0,True,2632.56,37.1,131.0,,89.0,10.3
+EXL0013,Patient MA,81,Non-Binary,Depression,Cardiology,ICU,86.7,92.1,,False,21848.59,38.8,106.0,66.0,94.0,11.2
+EXL0014,Patient NA,77,Male,Anaemia,Cardiology,Emergency,70.3,43.9,4.0,False,44446.26,44.8,152.0,,123.0,12.3
+EXL0015,Patient OA,38,Male,Anaemia,Cardiology,HDU,35.9,97.3,31.0,False,44605.03,33.6,134.0,105.0,72.0,12.3
+EXL0016,Patient PA,50,Male,Asthma,Neurology,Ward-B,25.2,41.5,28.0,True,50264.84,24.9,166.0,95.0,86.0,
+EXL0017,Patient QA,75,Female,Hypertension,Orthopaedics,HDU,23.4,81.7,11.0,False,64016.64,40.3,96.0,75.0,124.0,
+EXL0018,Patient RA,39,Male,Osteoporosis,Endocrinology,Day-Care,49.7,44.9,43.0,False,53183.88,33.8,,83.0,120.0,9.7
+EXL0019,Patient SA,66,Female,Diabetes Type 2,Pulmonology,Ward-B,41.3,94.6,1.0,False,51223.78,32.9,99.0,,113.0,
+EXL0020,Patient TA,76,Female,Asthma,Neurology,ICU,71.7,67.9,38.0,False,5021.97,,123.0,60.0,45.0,5.5
+EXL0021,Patient UA,59,Male,COPD,Neurology,ICU,59.9,48.3,24.0,False,32316.81,37.9,125.0,108.0,83.0,9.7
+EXL0022,Patient VA,77,Male,COPD,Psychiatry,Emergency,41.3,60.4,31.0,False,20108.71,18.4,114.0,84.0,134.0,12.4
+EXL0023,Patient WA,32,Male,Chronic Kidney Disease,Nephrology,Ward-B,31.9,49.9,41.0,False,22923.77,42.8,95.0,69.0,61.0,11.8
+EXL0024,Patient XA,79,Non-Binary,Asthma,Neurology,Ward-A,30.2,50.2,26.0,False,47341.52,25.4,113.0,113.0,132.0,8.0
+EXL0025,Patient YA,79,Male,Chronic Kidney Disease,General Medicine,Ward-B,89.2,96.9,5.0,False,17358.2,19.7,107.0,75.0,79.0,4.8
+EXL0026,Patient ZA,64,Female,Asthma,Nephrology,Day-Care,39.5,66.7,20.0,False,25338.7,28.8,176.0,75.0,90.0,7.4
+EXL0027,Patient AB,79,Male,Anaemia,General Medicine,Ward-A,72.1,87.3,41.0,False,20533.66,17.2,95.0,,86.0,11.1
+EXL0028,Patient BB,68,Non-Binary,Diabetes Type 2,Orthopaedics,ICU,84.9,78.4,11.0,False,80648.5,35.9,118.0,67.0,83.0,10.1
+EXL0029,Patient CB,72,Male,Anaemia,Endocrinology,Ward-B,69.1,80.6,33.0,False,80324.25,42.2,114.0,88.0,134.0,8.2
+EXL0030,Patient DB,81,Non-Binary,Osteoporosis,Cardiology,HDU,88.8,47.9,38.0,False,52040.06,40.3,,98.0,93.0,4.9
+EXL0031,Patient EB,20,Non-Binary,Obesity,Neurology,Emergency,51.4,54.1,27.0,False,78622.15,19.7,170.0,87.0,106.0,7.9
+EXL0032,Patient FB,68,Male,Cardiac Arrhythmia,Endocrinology,HDU,96.5,87.2,34.0,False,66901.17,19.7,135.0,65.0,82.0,
+EXL0033,Patient GB,24,Female,Asthma,Orthopaedics,Emergency,30.7,98.2,15.0,True,50350.6,39.6,113.0,75.0,,11.9
+EXL0034,Patient HB,38,Non-Binary,Osteoporosis,Pulmonology,Day-Care,28.2,55.8,32.0,False,1043.78,,164.0,,66.0,9.6
+EXL0035,Patient IB,56,Male,Obesity,Pulmonology,HDU,72.7,56.3,21.0,False,65777.63,29.4,115.0,75.0,48.0,7.0
+EXL0036,Patient JB,35,Male,Depression,Orthopaedics,Ward-B,95.4,68.4,5.0,False,,30.5,117.0,66.0,93.0,8.7
+EXL0037,Patient KB,21,Female,Diabetes Type 2,General Medicine,Ward-B,84.7,99.0,6.0,False,52488.93,25.2,92.0,100.0,103.0,5.0
+EXL0038,Patient LB,77,Non-Binary,Chronic Kidney Disease,Psychiatry,HDU,26.1,56.1,38.0,False,64755.85,41.9,164.0,73.0,117.0,12.3
+EXL0039,Patient MB,31,Non-Binary,Chronic Kidney Disease,Psychiatry,Ward-B,42.3,64.4,22.0,True,43841.92,34.7,127.0,102.0,112.0,7.4
+EXL0040,Patient NB,26,Male,Anaemia,General Medicine,Day-Care,94.4,93.5,18.0,False,59995.04,24.4,150.0,85.0,115.0,8.3
+EXL0041,Patient OB,70,Male,COPD,Pulmonology,Ward-A,40.2,40.2,14.0,False,79522.04,,167.0,85.0,131.0,7.3
+EXL0042,Patient PB,19,Female,Obesity,Pulmonology,Day-Care,82.5,42.4,10.0,False,32255.52,41.8,,,46.0,10.0
+EXL0043,Patient QB,77,Female,Depression,Neurology,Emergency,86.0,76.2,13.0,False,60336.3,16.4,179.0,66.0,93.0,9.8
+EXL0044,Patient RB,61,Non-Binary,Osteoporosis,Pulmonology,Day-Care,59.6,94.4,31.0,False,40695.62,25.4,137.0,92.0,132.0,10.2
+EXL0045,Patient SB,25,Non-Binary,Diabetes Type 2,Endocrinology,Emergency,50.9,54.3,30.0,False,57486.77,32.1,,85.0,75.0,6.6
+EXL0046,Patient TB,64,Male,Obesity,Pulmonology,Ward-B,56.0,68.2,3.0,False,64964.49,20.3,143.0,116.0,84.0,7.0
+EXL0047,Patient UB,52,Non-Binary,Depression,Nephrology,Ward-A,38.2,67.0,30.0,True,4340.74,18.7,145.0,104.0,92.0,5.5
+EXL0048,Patient VB,53,Female,Cardiac Arrhythmia,Neurology,Ward-B,91.2,68.4,6.0,False,55137.74,39.6,183.0,79.0,,9.7
+EXL0049,Patient WB,67,Female,Asthma,Cardiology,ICU,56.0,77.4,29.0,False,19659.63,41.9,148.0,62.0,87.0,4.8
+EXL0050,Patient XB,21,Male,Chronic Kidney Disease,Pulmonology,Ward-B,90.6,68.2,8.0,False,57117.75,39.9,,111.0,99.0,9.3
+EXL0051,Patient YB,19,Female,Osteoporosis,General Medicine,Emergency,28.5,66.8,44.0,False,40073.9,42.1,,63.0,132.0,11.5
+EXL0052,Patient ZB,23,Female,Chronic Kidney Disease,Cardiology,Ward-B,99.1,68.5,43.0,False,65865.21,32.0,109.0,85.0,93.0,11.6
+EXL0053,Patient AC,71,Female,Osteoporosis,Endocrinology,Ward-B,55.5,75.5,44.0,True,10927.37,39.6,175.0,70.0,134.0,8.1
+EXL0054,Patient BC,21,Female,Anaemia,General Medicine,Ward-A,23.8,72.2,33.0,False,53424.24,27.1,148.0,61.0,124.0,8.2
+EXL0055,Patient CC,71,Male,COPD,Cardiology,Ward-B,23.0,91.2,17.0,False,24030.78,35.3,160.0,73.0,101.0,5.1
+EXL0056,Patient DC,80,Male,Osteoporosis,General Medicine,Ward-A,79.7,43.0,11.0,False,72576.98,44.7,98.0,103.0,121.0,9.9
+EXL0057,Patient EC,35,Non-Binary,Chronic Kidney Disease,Endocrinology,HDU,72.7,90.0,13.0,True,78948.41,22.5,90.0,89.0,59.0,11.1
+EXL0058,Patient FC,61,Female,Anaemia,Neurology,ICU,84.2,90.6,11.0,True,84695.66,27.3,118.0,108.0,71.0,
+EXL0059,Patient GC,51,Non-Binary,Osteoporosis,Nephrology,Ward-A,28.4,57.1,31.0,False,67762.63,29.9,152.0,71.0,112.0,7.9
+EXL0060,Patient HC,79,Male,Cardiac Arrhythmia,Endocrinology,Emergency,22.8,67.8,28.0,False,64190.53,20.0,161.0,85.0,124.0,11.2
+EXL0061,Patient IC,31,Male,COPD,Endocrinology,HDU,60.7,66.3,44.0,True,18709.81,18.4,145.0,103.0,108.0,11.5
+EXL0062,Patient JC,65,Male,Osteoporosis,General Medicine,Ward-A,51.0,53.1,6.0,False,28892.6,40.1,,92.0,74.0,6.4
+EXL0063,Patient KC,32,Male,Anaemia,Neurology,Ward-A,57.0,63.8,41.0,False,,44.3,124.0,72.0,80.0,8.9
+EXL0064,Patient LC,79,Male,Obesity,Orthopaedics,ICU,99.3,42.7,16.0,True,65850.7,27.7,92.0,73.0,111.0,6.0
+EXL0065,Patient MC,57,Male,Hypertension,Psychiatry,Emergency,97.7,56.7,4.0,False,77814.62,,96.0,83.0,130.0,5.3
+EXL0066,Patient NC,70,Male,Depression,Pulmonology,Day-Care,95.4,89.0,35.0,False,16482.25,17.9,116.0,93.0,130.0,11.8
+EXL0067,Patient OC,41,Female,Hypertension,Pulmonology,Day-Care,82.7,57.1,26.0,False,78440.05,,90.0,103.0,93.0,11.1
+EXL0068,Patient PC,43,Non-Binary,Hypertension,Nephrology,Ward-A,48.4,89.1,12.0,False,59280.28,29.5,180.0,85.0,120.0,10.6
+EXL0069,Patient QC,77,Male,Diabetes Type 2,Nephrology,Ward-B,53.0,71.9,11.0,False,,25.3,169.0,80.0,99.0,4.9
+EXL0070,Patient RC,58,Female,Cardiac Arrhythmia,Pulmonology,Emergency,64.0,92.8,37.0,False,17386.59,29.8,160.0,87.0,,11.2
+EXL0071,Patient SC,46,Female,Obesity,Psychiatry,HDU,86.4,74.5,25.0,False,5191.87,25.2,,107.0,100.0,8.0
+EXL0072,Patient TC,32,Non-Binary,Asthma,Pulmonology,Ward-B,25.5,41.8,18.0,False,48535.28,30.2,176.0,95.0,112.0,7.2
+EXL0073,Patient UC,62,Male,Osteoporosis,Orthopaedics,Ward-B,53.9,80.5,19.0,True,55553.08,40.9,130.0,99.0,88.0,8.9
+EXL0074,Patient VC,82,Non-Binary,Depression,Psychiatry,Emergency,26.6,42.7,23.0,False,18311.03,33.2,164.0,61.0,75.0,5.2
+EXL0075,Patient WC,26,Male,COPD,Nephrology,Ward-A,61.2,67.0,38.0,False,47520.55,36.1,131.0,101.0,102.0,10.6
+EXL0076,Patient XC,18,Female,Obesity,Cardiology,Ward-A,91.9,95.8,18.0,False,72873.69,26.6,122.0,68.0,131.0,9.2
+EXL0077,Patient YC,25,Female,Chronic Kidney Disease,General Medicine,Ward-A,82.6,49.9,26.0,False,,37.4,139.0,82.0,97.0,6.0
+EXL0078,Patient ZC,80,Female,Asthma,Orthopaedics,Ward-A,38.2,63.4,6.0,False,78861.51,,152.0,74.0,128.0,6.0
+EXL0079,Patient AD,28,Female,Diabetes Type 2,Orthopaedics,Day-Care,98.1,83.8,4.0,True,31417.35,,126.0,72.0,123.0,6.0
+EXL0080,Patient BD,25,Non-Binary,Diabetes Type 2,Neurology,Ward-A,73.4,92.9,44.0,False,27375.19,32.6,148.0,,,5.0
+EXL0081,Patient CD,52,Male,Obesity,Nephrology,Day-Care,20.8,80.3,29.0,False,63826.5,23.4,170.0,76.0,72.0,9.2
+EXL0082,Patient DD,52,Male,Anaemia,Nephrology,Day-Care,40.4,55.5,34.0,True,36929.0,39.3,137.0,107.0,60.0,11.2
+EXL0083,Patient ED,50,Non-Binary,Hypertension,Endocrinology,Ward-A,40.9,80.5,17.0,False,7897.86,28.4,94.0,,81.0,4.6
+EXL0084,Patient FD,22,Male,Chronic Kidney Disease,Orthopaedics,ICU,25.5,57.8,43.0,False,24396.7,44.8,137.0,,65.0,4.9
+EXL0085,Patient GD,58,Female,Diabetes Type 2,Endocrinology,HDU,96.8,83.1,43.0,False,35870.2,18.7,92.0,79.0,123.0,9.1
+EXL0086,Patient HD,45,Male,Depression,Endocrinology,Ward-B,58.3,97.2,16.0,False,25217.64,38.6,136.0,79.0,61.0,11.1
+EXL0087,Patient ID,24,Female,Diabetes Type 2,General Medicine,Day-Care,91.7,83.3,2.0,False,28571.37,35.5,151.0,118.0,81.0,7.1
+EXL0088,Patient JD,29,Non-Binary,COPD,Endocrinology,Emergency,45.8,91.8,34.0,False,25324.06,38.3,103.0,105.0,121.0,7.3
+EXL0089,Patient KD,51,Male,Osteoporosis,Psychiatry,Emergency,30.0,40.1,8.0,False,4006.68,24.9,152.0,62.0,63.0,9.3
+EXL0090,Patient LD,50,Non-Binary,Diabetes Type 2,Pulmonology,HDU,57.9,83.1,13.0,False,54334.5,30.3,150.0,114.0,,6.7
+EXL0091,Patient MD,65,Male,COPD,Cardiology,Emergency,29.1,89.8,42.0,True,50971.21,39.1,120.0,71.0,89.0,4.7
+EXL0092,Patient ND,40,Female,Obesity,Nephrology,ICU,58.9,42.4,8.0,False,55710.91,22.7,184.0,99.0,62.0,10.4
+EXL0093,Patient OD,79,Non-Binary,Obesity,Psychiatry,Emergency,93.6,92.3,30.0,False,16750.19,22.6,106.0,61.0,122.0,9.5
+EXL0094,Patient PD,54,Male,Asthma,Cardiology,Ward-B,61.7,55.4,32.0,False,25482.81,32.0,113.0,95.0,106.0,9.1
+EXL0095,Patient QD,61,Female,Diabetes Type 2,Orthopaedics,Ward-B,69.3,79.9,36.0,False,52857.55,31.2,112.0,,80.0,10.4
+EXL0096,Patient RD,52,Non-Binary,Depression,Orthopaedics,Day-Care,32.5,88.0,30.0,False,51168.53,24.2,171.0,75.0,128.0,9.9
+EXL0097,Patient SD,82,Non-Binary,Diabetes Type 2,Orthopaedics,Ward-A,23.5,79.8,1.0,False,43284.91,,139.0,,96.0,6.1
+EXL0098,Patient TD,64,Male,Depression,Psychiatry,ICU,28.9,45.5,43.0,False,30109.92,,167.0,93.0,63.0,7.3
+EXL0099,Patient UD,20,Male,Cardiac Arrhythmia,Psychiatry,Day-Care,67.9,75.8,39.0,False,77642.67,38.4,168.0,103.0,88.0,5.5
+EXL0100,Patient VD,18,Male,Asthma,Nephrology,ICU,27.6,73.0,17.0,True,29210.59,,168.0,105.0,51.0,5.5
+EXL0101,Patient WD,22,Female,Cardiac Arrhythmia,Pulmonology,Ward-A,50.1,94.0,20.0,False,38999.82,40.1,159.0,65.0,88.0,9.9
+EXL0102,Patient XD,31,Male,Diabetes Type 2,Neurology,Emergency,64.0,64.3,24.0,False,57800.62,44.3,116.0,72.0,112.0,11.4
+EXL0103,Patient YD,44,Non-Binary,Asthma,Endocrinology,Emergency,51.1,59.3,22.0,False,46385.31,29.8,104.0,95.0,78.0,12.2
+EXL0104,Patient ZD,26,Non-Binary,Cardiac Arrhythmia,Orthopaedics,Ward-A,33.1,85.0,29.0,False,29811.87,17.9,139.0,81.0,110.0,9.5
+EXL0105,Patient AE,32,Male,Hypertension,General Medicine,Day-Care,41.9,64.8,22.0,False,37311.98,17.4,125.0,,113.0,6.0
+EXL0106,Patient BE,59,Male,Diabetes Type 2,Pulmonology,Ward-A,94.3,78.8,44.0,False,67633.63,24.6,97.0,71.0,99.0,5.3
+EXL0107,Patient CE,68,Non-Binary,Cardiac Arrhythmia,General Medicine,HDU,74.1,78.8,9.0,False,,43.0,168.0,111.0,54.0,11.0
+EXL0108,Patient DE,80,Female,Hypertension,Nephrology,Ward-B,59.7,93.3,37.0,False,12520.57,31.2,92.0,118.0,86.0,9.1
+EXL0109,Patient EE,69,Male,Hypertension,Nephrology,Day-Care,21.0,75.9,10.0,False,26962.29,23.9,151.0,113.0,85.0,9.4
+EXL0110,Patient FE,21,Male,Obesity,Nephrology,ICU,99.4,70.1,36.0,False,72285.64,27.6,,89.0,121.0,10.8
+EXL0111,Patient GE,40,Non-Binary,Diabetes Type 2,Cardiology,HDU,73.7,48.3,37.0,False,8019.63,33.4,166.0,112.0,,10.1
+EXL0112,Patient HE,32,Male,Hypertension,General Medicine,Day-Care,45.4,46.9,28.0,False,84298.32,34.9,177.0,110.0,54.0,11.2
+EXL0113,Patient IE,60,Female,Obesity,Pulmonology,Ward-A,90.3,49.3,28.0,False,46214.74,,150.0,99.0,54.0,4.9
+EXL0114,Patient JE,46,Non-Binary,Cardiac Arrhythmia,Neurology,Ward-A,40.7,50.3,42.0,False,83719.47,44.3,121.0,66.0,104.0,10.5
+EXL0115,Patient KE,53,Male,COPD,Pulmonology,Ward-A,63.5,78.3,43.0,False,79845.2,,183.0,91.0,95.0,11.3
+EXL0116,Patient LE,30,Non-Binary,Diabetes Type 2,Psychiatry,Ward-A,70.9,84.5,21.0,False,38762.76,19.9,102.0,107.0,65.0,6.8
+EXL0117,Patient ME,49,Male,Asthma,Psychiatry,ICU,37.7,71.8,,False,17272.5,,90.0,78.0,52.0,9.6
+EXL0118,Patient NE,76,Male,Depression,Orthopaedics,HDU,98.3,89.7,42.0,True,14432.76,18.2,123.0,65.0,109.0,
+EXL0119,Patient OE,45,Male,Depression,Neurology,Emergency,79.9,99.5,40.0,False,20779.1,42.3,151.0,79.0,122.0,12.2
+EXL0120,Patient PE,83,Female,Cardiac Arrhythmia,Psychiatry,Ward-B,64.6,89.2,2.0,False,60506.21,44.9,168.0,86.0,129.0,4.8
+EXL0121,Patient QE,59,Female,Anaemia,Nephrology,ICU,34.4,81.7,8.0,True,23564.27,36.3,167.0,112.0,74.0,9.1
+EXL0122,Patient RE,62,Non-Binary,Anaemia,Pulmonology,ICU,24.3,71.9,27.0,True,29350.44,38.3,182.0,102.0,129.0,5.8
+EXL0123,Patient SE,79,Male,Cardiac Arrhythmia,General Medicine,Emergency,45.6,66.9,22.0,False,38421.81,25.8,171.0,,,10.2
+EXL0124,Patient TE,74,Male,Hypertension,Nephrology,Emergency,80.3,45.1,,True,77668.16,43.3,160.0,,53.0,5.9
+EXL0125,Patient UE,23,Female,Diabetes Type 2,Cardiology,Ward-B,41.5,64.0,27.0,False,,31.4,182.0,66.0,,6.4
+EXL0126,Patient VE,45,Male,Depression,Psychiatry,Ward-B,63.2,94.6,29.0,False,924.74,37.2,120.0,118.0,113.0,8.5
+EXL0127,Patient WE,45,Female,Depression,Nephrology,Emergency,78.2,88.5,3.0,False,5578.15,42.8,153.0,64.0,,11.8
+EXL0128,Patient XE,61,Male,Hypertension,Nephrology,Ward-A,28.6,53.0,44.0,False,76952.76,44.3,114.0,70.0,101.0,6.2
+EXL0129,Patient YE,47,Non-Binary,Depression,Cardiology,ICU,74.8,68.0,13.0,False,55215.14,,127.0,74.0,106.0,5.7
+EXL0130,Patient ZE,79,Male,Asthma,Endocrinology,Day-Care,27.3,89.0,10.0,False,23571.93,24.8,103.0,62.0,96.0,
+EXL0131,Patient AF,79,Male,Diabetes Type 2,Pulmonology,Ward-B,97.2,44.0,36.0,False,15472.77,44.0,97.0,117.0,105.0,8.5
+EXL0132,Patient BF,18,Female,Osteoporosis,General Medicine,Ward-B,59.1,63.2,,False,25365.54,34.2,180.0,64.0,84.0,11.8
+EXL0133,Patient CF,44,Male,Depression,Orthopaedics,Emergency,32.1,91.1,27.0,False,10200.34,43.0,143.0,82.0,82.0,5.7
+EXL0134,Patient DF,79,Male,Cardiac Arrhythmia,Endocrinology,HDU,47.4,64.2,34.0,False,80059.53,35.6,91.0,112.0,87.0,
+EXL0135,Patient EF,20,Female,Asthma,Psychiatry,Day-Care,53.1,44.7,1.0,False,66765.42,24.9,170.0,,107.0,6.4
+EXL0136,Patient FF,87,Non-Binary,Depression,Nephrology,Day-Care,80.7,72.6,,False,39572.05,26.7,167.0,68.0,63.0,5.8
+EXL0137,Patient GF,44,Non-Binary,Asthma,Neurology,Ward-B,79.5,91.7,25.0,True,73589.34,32.0,178.0,74.0,94.0,10.0
+EXL0138,Patient HF,26,Female,Obesity,Cardiology,Ward-A,69.0,75.4,29.0,False,,38.9,145.0,62.0,77.0,9.2
+EXL0139,Patient IF,79,Female,Osteoporosis,Cardiology,HDU,28.5,53.6,7.0,False,61096.69,25.2,183.0,88.0,57.0,10.5
+EXL0140,Patient JF,54,Female,Chronic Kidney Disease,Neurology,Day-Care,32.1,63.1,3.0,False,72843.2,32.8,182.0,65.0,122.0,7.0
+EXL0141,Patient KF,68,Female,Cardiac Arrhythmia,Pulmonology,Ward-B,27.5,67.0,20.0,True,30646.96,26.0,173.0,76.0,106.0,8.1
+EXL0142,Patient LF,61,Female,Cardiac Arrhythmia,Endocrinology,Day-Care,66.2,74.8,20.0,False,64505.75,39.7,174.0,85.0,87.0,7.7
+EXL0143,Patient MF,41,Non-Binary,Diabetes Type 2,Orthopaedics,HDU,90.2,85.6,30.0,False,25433.61,29.5,150.0,80.0,93.0,12.4
+EXL0144,Patient NF,76,Non-Binary,Asthma,Pulmonology,HDU,54.7,45.9,35.0,False,25753.43,,111.0,67.0,,6.8
+EXL0145,Patient OF,49,Female,Hypertension,Neurology,ICU,32.9,93.4,35.0,False,9546.33,20.8,124.0,80.0,54.0,6.9
+EXL0146,Patient PF,69,Male,Cardiac Arrhythmia,Nephrology,Emergency,64.6,40.7,39.0,False,37684.9,17.8,105.0,116.0,50.0,7.3
+EXL0147,Patient QF,79,Female,Asthma,Neurology,Emergency,84.9,62.2,27.0,False,62160.66,30.5,139.0,70.0,101.0,9.0
+EXL0148,Patient RF,75,Male,Asthma,Pulmonology,Ward-B,79.3,41.6,26.0,False,79948.66,19.1,132.0,97.0,45.0,6.5
+EXL0149,Patient SF,69,Female,COPD,General Medicine,HDU,90.5,63.6,14.0,True,51520.85,19.3,106.0,,115.0,11.8
+EXL0150,Patient TF,29,Female,COPD,Cardiology,ICU,42.2,71.5,17.0,False,73434.95,43.3,169.0,,102.0,6.6
+EXL0151,Patient UF,56,Non-Binary,Chronic Kidney Disease,Cardiology,ICU,35.5,70.7,18.0,False,70000.8,41.3,147.0,83.0,65.0,11.7
+EXL0152,Patient VF,19,Male,Obesity,Psychiatry,Day-Care,90.4,49.9,29.0,False,15147.49,29.1,91.0,94.0,,5.3
+EXL0153,Patient WF,20,Male,Chronic Kidney Disease,Psychiatry,Day-Care,72.6,78.7,20.0,False,41551.57,44.6,93.0,114.0,100.0,9.8
+EXL0154,Patient XF,73,Non-Binary,Depression,Neurology,ICU,44.9,42.7,27.0,False,10380.04,,174.0,73.0,131.0,11.8
+EXL0155,Patient YF,76,Non-Binary,Hypertension,Orthopaedics,Day-Care,79.4,85.7,18.0,False,58141.94,33.8,128.0,,64.0,5.8
+EXL0156,Patient ZF,19,Non-Binary,Depression,Nephrology,HDU,85.2,96.8,4.0,False,80766.52,33.9,183.0,73.0,98.0,12.2
+EXL0157,Patient AG,19,Non-Binary,Anaemia,General Medicine,Ward-A,69.2,60.4,1.0,False,12084.06,29.3,95.0,69.0,,8.1
+EXL0158,Patient BG,71,Male,Depression,Endocrinology,HDU,75.0,71.0,1.0,False,62513.12,27.5,170.0,71.0,72.0,12.1
+EXL0159,Patient CG,18,Male,Diabetes Type 2,Pulmonology,ICU,50.0,62.7,,False,53924.12,29.2,178.0,,49.0,9.9
+EXL0160,Patient DG,36,Female,Depression,Orthopaedics,ICU,63.1,40.4,20.0,False,49814.63,28.0,158.0,103.0,65.0,6.9
+EXL0161,Patient EG,19,Female,Chronic Kidney Disease,Nephrology,HDU,61.9,63.2,23.0,False,33465.16,37.2,158.0,114.0,62.0,6.0
+EXL0162,Patient FG,70,Non-Binary,Cardiac Arrhythmia,Psychiatry,Day-Care,87.8,87.5,10.0,False,30508.62,19.9,109.0,105.0,91.0,6.9
+EXL0163,Patient GG,61,Non-Binary,Cardiac Arrhythmia,Neurology,Day-Care,87.2,75.8,11.0,False,4323.56,21.7,153.0,93.0,114.0,5.2
+EXL0164,Patient HG,49,Non-Binary,COPD,Pulmonology,Emergency,86.6,46.1,41.0,False,18913.29,21.2,105.0,100.0,101.0,5.7
+EXL0165,Patient IG,87,Female,Hypertension,Psychiatry,ICU,20.9,90.8,41.0,False,1782.45,23.6,140.0,69.0,63.0,5.3
+EXL0166,Patient JG,49,Female,Hypertension,Neurology,Ward-B,80.0,71.9,5.0,False,49629.75,31.2,126.0,117.0,109.0,
+EXL0167,Patient KG,85,Female,Diabetes Type 2,Pulmonology,Emergency,80.7,90.5,1.0,False,9444.6,19.2,162.0,,47.0,10.9
+EXL0168,Patient LG,72,Female,Chronic Kidney Disease,Endocrinology,Day-Care,74.3,74.8,17.0,True,74270.14,41.2,158.0,76.0,86.0,5.6
+EXL0169,Patient MG,73,Female,COPD,Nephrology,HDU,80.5,73.6,22.0,True,44705.59,24.6,131.0,62.0,65.0,5.5
+EXL0170,Patient NG,34,Female,Anaemia,Pulmonology,Day-Care,87.4,46.3,34.0,False,59623.8,20.7,146.0,90.0,84.0,9.6
+EXL0171,Patient OG,55,Female,Hypertension,General Medicine,HDU,57.6,50.0,41.0,False,35217.42,35.6,155.0,110.0,111.0,6.1
+EXL0172,Patient PG,41,Non-Binary,Cardiac Arrhythmia,Orthopaedics,Emergency,60.2,98.3,29.0,False,47868.99,17.1,98.0,60.0,69.0,5.3
+EXL0173,Patient QG,86,Non-Binary,Depression,Cardiology,ICU,30.0,53.7,4.0,False,80154.7,34.0,175.0,71.0,99.0,5.8
+EXL0174,Patient RG,87,Non-Binary,Depression,General Medicine,Day-Care,50.8,98.6,5.0,False,7491.03,36.2,153.0,98.0,128.0,11.9
+EXL0175,Patient SG,28,Non-Binary,COPD,General Medicine,HDU,71.5,71.9,11.0,False,21957.74,22.2,,63.0,96.0,11.1
+EXL0176,Patient TG,33,Female,Chronic Kidney Disease,Orthopaedics,ICU,82.4,48.1,21.0,True,66409.01,17.2,111.0,101.0,88.0,7.3
+EXL0177,Patient UG,76,Male,Chronic Kidney Disease,Cardiology,Ward-B,37.4,46.0,35.0,False,8843.29,26.5,,,129.0,9.7
+EXL0178,Patient VG,87,Female,Obesity,General Medicine,HDU,31.0,52.5,12.0,False,6893.36,18.9,144.0,93.0,100.0,8.8
+EXL0179,Patient WG,20,Male,Osteoporosis,Pulmonology,Emergency,73.0,95.5,26.0,True,31050.25,19.4,118.0,101.0,99.0,9.9
+EXL0180,Patient XG,37,Non-Binary,Hypertension,Pulmonology,Ward-B,20.2,64.8,19.0,False,8288.19,23.4,127.0,80.0,131.0,10.0
+EXL0181,Patient YG,76,Female,Chronic Kidney Disease,Pulmonology,Ward-B,34.3,63.7,,True,49939.13,24.6,107.0,81.0,114.0,9.5
+EXL0182,Patient ZG,53,Non-Binary,Cardiac Arrhythmia,Cardiology,Ward-A,22.3,58.8,7.0,True,19620.26,31.4,160.0,116.0,121.0,
+EXL0183,Patient AH,36,Female,COPD,General Medicine,Day-Care,33.4,48.8,26.0,False,76186.48,35.7,154.0,63.0,131.0,4.8
+EXL0184,Patient BH,84,Non-Binary,Anaemia,Neurology,HDU,34.5,69.3,40.0,True,66705.76,33.2,90.0,,117.0,8.1
+EXL0185,Patient CH,36,Male,Obesity,Cardiology,Ward-B,51.0,47.8,5.0,False,59625.09,20.3,177.0,64.0,125.0,11.6
+EXL0186,Patient DH,37,Male,Asthma,Pulmonology,Ward-A,52.2,90.1,21.0,False,52631.77,21.0,93.0,78.0,110.0,9.1
+EXL0187,Patient EH,69,Male,Diabetes Type 2,Orthopaedics,Emergency,89.9,62.2,14.0,False,73462.85,41.5,93.0,61.0,,11.2
+EXL0188,Patient FH,50,Female,Anaemia,General Medicine,ICU,60.8,62.5,4.0,False,19348.74,32.2,171.0,71.0,127.0,12.4
+EXL0189,Patient GH,57,Male,Asthma,General Medicine,HDU,77.9,68.4,23.0,False,74277.7,41.2,116.0,76.0,51.0,5.8
+EXL0190,Patient HH,56,Female,Depression,Psychiatry,Ward-B,28.3,66.6,42.0,False,67212.1,26.8,,69.0,107.0,10.0
+EXL0191,Patient IH,18,Male,Diabetes Type 2,Psychiatry,Day-Care,38.0,99.7,20.0,False,63719.59,33.8,148.0,93.0,86.0,9.9
+EXL0192,Patient JH,28,Male,Hypertension,Endocrinology,Ward-A,76.2,72.7,15.0,False,47926.1,31.2,121.0,65.0,86.0,
+EXL0193,Patient KH,74,Female,Cardiac Arrhythmia,Neurology,Ward-B,24.2,45.3,29.0,False,21307.63,25.3,122.0,67.0,103.0,12.4
+EXL0194,Patient LH,67,Female,Diabetes Type 2,Neurology,Day-Care,58.9,76.4,8.0,True,36289.8,29.6,117.0,110.0,64.0,10.0
+EXL0195,Patient MH,40,Male,Osteoporosis,Nephrology,Ward-B,67.9,49.1,,False,67556.72,30.6,144.0,70.0,117.0,6.4
+EXL0196,Patient NH,48,Female,Asthma,Neurology,HDU,68.2,41.9,19.0,True,3185.28,21.8,149.0,116.0,61.0,10.9
+EXL0197,Patient OH,59,Male,Hypertension,Psychiatry,HDU,21.8,98.2,39.0,False,66583.29,25.1,159.0,71.0,,5.4
+EXL0198,Patient PH,24,Female,Osteoporosis,Cardiology,HDU,45.8,86.4,28.0,False,20785.98,,151.0,68.0,91.0,10.7
+EXL0199,Patient QH,33,Non-Binary,Depression,Neurology,Emergency,70.9,98.8,27.0,False,12694.13,42.6,169.0,61.0,46.0,
+EXL0200,Patient RH,77,Non-Binary,Osteoporosis,Psychiatry,Emergency,31.9,68.7,4.0,False,10276.76,26.4,123.0,67.0,107.0,7.6
+EXL0201,Patient SH,19,Non-Binary,Obesity,Endocrinology,Ward-A,75.6,71.9,15.0,False,2802.63,24.9,,117.0,106.0,9.5
+EXL0202,Patient TH,18,Non-Binary,Obesity,General Medicine,HDU,79.7,50.1,35.0,True,44743.06,21.7,,70.0,63.0,7.9
+EXL0203,Patient UH,65,Non-Binary,COPD,Neurology,Day-Care,98.6,54.8,37.0,False,18942.96,35.7,145.0,119.0,61.0,8.0
+EXL0204,Patient VH,29,Male,Anaemia,Endocrinology,Ward-B,36.8,90.3,1.0,False,84106.98,25.4,102.0,112.0,113.0,7.0
+EXL0205,Patient WH,86,Non-Binary,Anaemia,General Medicine,ICU,86.0,61.4,3.0,False,,44.6,145.0,95.0,83.0,10.6
+EXL0206,Patient XH,54,Non-Binary,Hypertension,Orthopaedics,Day-Care,61.6,89.6,24.0,False,12151.31,25.4,107.0,69.0,126.0,12.0
+EXL0207,Patient YH,49,Non-Binary,Depression,Orthopaedics,Emergency,49.9,82.5,27.0,False,58700.43,27.4,143.0,80.0,115.0,12.0
+EXL0208,Patient ZH,26,Non-Binary,Chronic Kidney Disease,General Medicine,Emergency,29.8,50.6,40.0,False,76359.33,33.5,,79.0,,5.9
+EXL0209,Patient AI,36,Female,Obesity,Neurology,Day-Care,78.8,70.4,36.0,False,63467.67,39.2,132.0,107.0,83.0,11.5
+EXL0210,Patient BI,65,Male,Hypertension,Nephrology,Emergency,38.9,80.6,,True,6959.17,29.6,,67.0,,10.4
+EXL0211,Patient CI,20,Non-Binary,Chronic Kidney Disease,Psychiatry,HDU,49.7,54.1,29.0,True,76202.21,28.3,150.0,95.0,84.0,6.5
+EXL0212,Patient DI,37,Non-Binary,Anaemia,Cardiology,Ward-A,25.0,89.8,24.0,True,67587.03,44.9,131.0,88.0,89.0,5.0
+EXL0213,Patient EI,41,Non-Binary,COPD,Cardiology,Ward-B,84.1,72.7,24.0,False,13876.68,16.3,170.0,101.0,48.0,6.6
+EXL0214,Patient FI,71,Male,Osteoporosis,Pulmonology,Ward-A,81.3,49.9,42.0,False,4875.91,42.0,168.0,71.0,69.0,11.8
+EXL0215,Patient GI,50,Female,Obesity,General Medicine,Ward-B,78.7,75.0,4.0,False,47592.74,20.3,107.0,73.0,113.0,9.6
+EXL0216,Patient HI,41,Male,Hypertension,Cardiology,Ward-B,44.0,100.0,3.0,False,13685.03,38.8,112.0,107.0,74.0,10.3
+EXL0217,Patient II,53,Female,Diabetes Type 2,Neurology,Ward-A,33.9,49.0,34.0,False,71022.94,,143.0,113.0,,6.6
+EXL0218,Patient JI,55,Non-Binary,Chronic Kidney Disease,Nephrology,Day-Care,71.0,89.0,23.0,False,30779.28,25.9,,109.0,112.0,10.3
+EXL0219,Patient KI,42,Non-Binary,Osteoporosis,General Medicine,Ward-B,59.7,52.4,23.0,False,77639.41,41.3,147.0,80.0,132.0,4.7
+EXL0220,Patient LI,35,Male,Obesity,Nephrology,Ward-A,34.3,86.9,5.0,True,48300.65,16.4,157.0,,73.0,7.5
+EXL0221,Patient MI,83,Male,Anaemia,Neurology,Ward-B,74.9,84.1,31.0,True,15935.82,22.6,156.0,80.0,117.0,9.5
+EXL0222,Patient NI,71,Female,Depression,Cardiology,ICU,99.3,58.0,41.0,False,12296.1,32.4,160.0,103.0,112.0,5.7
+EXL0223,Patient OI,52,Female,Chronic Kidney Disease,Cardiology,Day-Care,79.8,59.5,,False,49211.92,26.2,107.0,109.0,95.0,11.1
+EXL0224,Patient PI,78,Male,Anaemia,Pulmonology,HDU,79.2,87.6,37.0,False,64879.17,33.7,96.0,89.0,,
+EXL0225,Patient QI,58,Female,Obesity,Cardiology,Ward-B,96.0,67.7,10.0,False,66537.23,16.7,129.0,98.0,58.0,9.7
+EXL0226,Patient RI,50,Male,Chronic Kidney Disease,General Medicine,ICU,36.2,83.8,40.0,False,23801.5,19.4,,,113.0,7.7
+EXL0227,Patient SI,85,Female,Osteoporosis,Neurology,HDU,65.2,48.9,7.0,True,17758.85,19.7,175.0,83.0,62.0,9.3
+EXL0228,Patient TI,50,Male,Obesity,Orthopaedics,HDU,98.4,91.2,39.0,False,1915.91,21.5,154.0,,86.0,5.4
+EXL0229,Patient UI,31,Male,Asthma,Neurology,Ward-B,33.2,82.7,38.0,False,57892.33,29.3,157.0,66.0,101.0,4.6
+EXL0230,Patient VI,38,Male,Hypertension,General Medicine,Ward-A,76.0,94.4,21.0,False,6970.02,37.8,138.0,68.0,127.0,11.8
+EXL0231,Patient WI,65,Female,Osteoporosis,General Medicine,Ward-B,66.9,47.9,20.0,False,36054.32,42.3,141.0,60.0,56.0,6.7
+EXL0232,Patient XI,37,Female,Chronic Kidney Disease,Pulmonology,ICU,66.9,75.6,3.0,False,51342.14,40.2,118.0,85.0,,11.1
+EXL0233,Patient YI,25,Female,Depression,Pulmonology,HDU,75.8,75.9,22.0,False,79685.71,21.7,110.0,,,12.5
+EXL0234,Patient ZI,24,Male,Anaemia,Cardiology,Ward-B,94.4,61.2,4.0,False,26847.28,28.8,179.0,97.0,74.0,6.2
+EXL0235,Patient AJ,84,Female,Diabetes Type 2,Endocrinology,Ward-A,82.6,67.5,28.0,False,21605.75,21.8,167.0,113.0,132.0,6.6
+EXL0236,Patient BJ,34,Female,Anaemia,Neurology,Ward-B,24.5,42.3,12.0,False,55776.53,23.7,,103.0,119.0,9.8
+EXL0237,Patient CJ,50,Male,Chronic Kidney Disease,Neurology,Day-Care,88.2,84.8,38.0,False,52825.7,30.6,136.0,81.0,,12.2
+EXL0238,Patient DJ,65,Non-Binary,Anaemia,Endocrinology,Ward-A,38.0,73.0,36.0,False,28563.28,18.0,165.0,103.0,125.0,11.8
+EXL0239,Patient EJ,76,Male,Hypertension,Pulmonology,ICU,50.2,43.5,41.0,False,78924.61,22.3,131.0,69.0,45.0,8.5
+EXL0240,Patient FJ,39,Female,Obesity,Cardiology,HDU,56.9,80.8,5.0,True,71890.87,43.1,140.0,,123.0,10.9
+EXL0241,Patient GJ,47,Male,Diabetes Type 2,Endocrinology,Ward-B,58.5,68.0,13.0,False,19426.53,29.5,145.0,117.0,76.0,5.6
+EXL0242,Patient HJ,55,Non-Binary,Cardiac Arrhythmia,Cardiology,Ward-A,54.8,42.1,23.0,False,20707.55,28.9,140.0,65.0,53.0,12.3
+EXL0243,Patient IJ,68,Male,Chronic Kidney Disease,Cardiology,Day-Care,95.0,98.2,30.0,False,43789.38,16.4,159.0,76.0,,12.2
+EXL0244,Patient JJ,71,Female,COPD,Cardiology,Ward-A,76.5,96.9,37.0,False,65866.84,23.2,109.0,110.0,72.0,5.8
+EXL0245,Patient KJ,25,Non-Binary,Cardiac Arrhythmia,Psychiatry,Emergency,70.5,70.8,25.0,False,4221.41,41.1,177.0,,68.0,
+EXL0246,Patient LJ,44,Female,Anaemia,General Medicine,Day-Care,24.0,45.6,27.0,False,59086.82,20.8,116.0,97.0,104.0,5.3
+EXL0247,Patient MJ,44,Non-Binary,Chronic Kidney Disease,Cardiology,ICU,92.3,85.3,14.0,False,55275.93,28.0,127.0,83.0,79.0,6.7
+EXL0248,Patient NJ,38,Non-Binary,Asthma,Psychiatry,HDU,92.8,69.5,36.0,True,20060.07,16.4,161.0,110.0,130.0,11.0
+EXL0249,Patient OJ,47,Male,COPD,Pulmonology,ICU,82.4,58.1,39.0,False,58074.33,29.9,,69.0,,7.5
+EXL0250,Patient PJ,45,Male,Diabetes Type 2,Endocrinology,Ward-B,20.6,69.5,16.0,False,79945.48,16.6,143.0,115.0,127.0,5.2
+EXL0251,Patient QJ,81,Female,Depression,General Medicine,Ward-A,24.6,71.3,22.0,False,4453.4,39.8,113.0,67.0,120.0,7.2
+EXL0252,Patient RJ,86,Male,Asthma,Orthopaedics,Emergency,38.0,73.8,21.0,False,27510.6,39.9,136.0,80.0,64.0,12.4
+EXL0253,Patient SJ,78,Male,Cardiac Arrhythmia,Endocrinology,Day-Care,30.5,66.5,21.0,False,,38.8,160.0,115.0,109.0,9.5
+EXL0254,Patient TJ,65,Non-Binary,Obesity,General Medicine,Day-Care,51.9,76.3,8.0,False,76487.5,24.2,,,129.0,7.8
+EXL0255,Patient UJ,36,Male,Hypertension,Orthopaedics,Ward-A,93.8,95.1,16.0,False,81811.09,40.3,175.0,80.0,93.0,5.8
+EXL0256,Patient VJ,21,Non-Binary,Depression,Endocrinology,Emergency,57.8,61.7,31.0,False,38027.74,31.7,152.0,,45.0,
+EXL0257,Patient WJ,52,Non-Binary,Asthma,General Medicine,Ward-A,21.1,83.5,42.0,False,63877.4,26.8,146.0,98.0,,
+EXL0258,Patient XJ,81,Non-Binary,Obesity,Endocrinology,Ward-B,42.6,93.7,10.0,False,45425.36,34.1,144.0,83.0,91.0,6.8
+EXL0259,Patient YJ,66,Female,Obesity,Endocrinology,ICU,23.6,67.4,32.0,False,45942.66,16.4,,92.0,103.0,5.1
+EXL0260,Patient ZJ,34,Female,Chronic Kidney Disease,Orthopaedics,Day-Care,22.9,66.6,34.0,False,23999.41,20.1,151.0,118.0,106.0,5.0
+EXL0261,Patient AK,61,Female,Asthma,Endocrinology,Ward-B,42.1,76.1,9.0,False,18832.8,37.5,,77.0,130.0,5.5
+EXL0262,Patient BK,47,Non-Binary,Diabetes Type 2,Endocrinology,ICU,42.0,75.5,17.0,False,24836.45,23.1,182.0,115.0,62.0,9.1
+EXL0263,Patient CK,63,Female,Anaemia,Orthopaedics,Ward-B,83.0,88.4,11.0,False,47509.72,33.3,111.0,87.0,90.0,11.9
+EXL0264,Patient DK,23,Female,COPD,Pulmonology,Emergency,98.0,68.6,32.0,True,2963.61,,164.0,116.0,76.0,8.5
+EXL0265,Patient EK,54,Male,COPD,Cardiology,Day-Care,49.7,99.8,10.0,False,77162.54,40.8,173.0,111.0,71.0,11.2
+EXL0266,Patient FK,41,Female,Cardiac Arrhythmia,Neurology,Ward-A,54.3,43.6,22.0,False,13705.97,43.6,118.0,91.0,62.0,8.1
+EXL0267,Patient GK,63,Female,Cardiac Arrhythmia,Nephrology,Ward-A,87.6,40.2,17.0,False,19097.49,41.6,130.0,71.0,83.0,10.2
+EXL0268,Patient HK,70,Non-Binary,COPD,Psychiatry,ICU,41.5,78.4,4.0,False,44294.34,23.8,131.0,107.0,93.0,10.4
+EXL0269,Patient IK,77,Non-Binary,Diabetes Type 2,Nephrology,HDU,32.5,57.9,25.0,False,60504.7,21.6,,101.0,,5.9
+EXL0270,Patient JK,80,Non-Binary,Hypertension,Nephrology,Emergency,88.2,54.4,21.0,False,8589.11,29.8,120.0,86.0,88.0,7.4
+EXL0271,Patient KK,49,Non-Binary,Osteoporosis,General Medicine,ICU,23.7,58.7,37.0,False,27345.2,16.2,119.0,69.0,116.0,9.6
+EXL0272,Patient LK,50,Non-Binary,Anaemia,Cardiology,HDU,69.6,55.4,38.0,True,82353.0,16.7,107.0,105.0,98.0,5.1
+EXL0273,Patient MK,84,Non-Binary,Hypertension,General Medicine,Ward-B,65.0,41.8,1.0,True,22667.98,32.0,106.0,116.0,78.0,7.4
+EXL0274,Patient NK,35,Female,Chronic Kidney Disease,Cardiology,Emergency,47.7,98.3,25.0,False,26952.74,,127.0,111.0,115.0,8.8
+EXL0275,Patient OK,42,Non-Binary,Osteoporosis,Orthopaedics,Ward-B,45.2,53.2,36.0,False,71184.12,,103.0,101.0,80.0,12.5
+EXL0276,Patient PK,71,Non-Binary,Osteoporosis,Orthopaedics,Day-Care,81.7,84.0,17.0,False,4743.12,21.9,176.0,91.0,62.0,8.3
+EXL0277,Patient QK,75,Male,Asthma,Neurology,Emergency,26.9,85.8,41.0,False,39759.81,23.5,178.0,101.0,82.0,11.0
+EXL0278,Patient RK,84,Female,Diabetes Type 2,Cardiology,HDU,38.9,95.8,24.0,False,32577.62,19.3,168.0,85.0,103.0,8.0
+EXL0279,Patient SK,63,Female,Diabetes Type 2,Endocrinology,Day-Care,78.6,41.8,2.0,False,27251.58,42.6,145.0,84.0,53.0,10.9
+EXL0280,Patient TK,41,Female,Osteoporosis,Pulmonology,Ward-A,63.9,92.3,40.0,False,,38.6,111.0,70.0,117.0,9.3
+EXL0281,Patient UK,49,Non-Binary,Asthma,Neurology,HDU,30.2,71.6,15.0,False,8221.11,39.8,,82.0,116.0,11.6
+EXL0282,Patient VK,64,Non-Binary,Anaemia,Neurology,ICU,90.6,78.0,32.0,False,27102.78,42.2,145.0,93.0,95.0,7.8
+EXL0283,Patient WK,40,Non-Binary,Osteoporosis,Endocrinology,Ward-A,51.5,78.7,39.0,True,4137.93,31.2,108.0,116.0,79.0,9.3
+EXL0284,Patient XK,83,Male,Depression,Pulmonology,Ward-A,86.2,89.2,6.0,False,,29.1,146.0,111.0,126.0,9.5
+EXL0285,Patient YK,44,Non-Binary,Cardiac Arrhythmia,General Medicine,ICU,83.0,60.0,1.0,False,34150.25,25.6,133.0,99.0,49.0,7.8
+EXL0286,Patient ZK,19,Male,Cardiac Arrhythmia,Pulmonology,Emergency,70.0,84.0,23.0,False,38009.87,33.1,124.0,82.0,58.0,5.7
+EXL0287,Patient AL,34,Female,Hypertension,General Medicine,Ward-A,59.6,71.7,39.0,False,76008.74,29.2,90.0,,74.0,5.2
+EXL0288,Patient BL,50,Non-Binary,Chronic Kidney Disease,Orthopaedics,HDU,98.4,87.6,17.0,True,56105.65,29.1,141.0,90.0,48.0,4.6
+EXL0289,Patient CL,26,Male,Cardiac Arrhythmia,Nephrology,Day-Care,31.6,99.4,34.0,False,,43.2,174.0,66.0,83.0,11.5
+EXL0290,Patient DL,60,Male,Obesity,Orthopaedics,Ward-A,78.0,52.0,41.0,False,80198.27,,182.0,99.0,128.0,6.4
+EXL0291,Patient EL,65,Non-Binary,Hypertension,Orthopaedics,HDU,35.3,99.7,29.0,False,20538.71,39.1,159.0,92.0,108.0,6.2
+EXL0292,Patient FL,56,Female,Cardiac Arrhythmia,Nephrology,Ward-B,47.1,45.4,9.0,False,9593.4,37.9,126.0,80.0,,10.4
+EXL0293,Patient GL,59,Female,Chronic Kidney Disease,Pulmonology,HDU,44.7,40.1,13.0,False,65406.83,35.7,154.0,61.0,72.0,7.1
+EXL0294,Patient HL,43,Female,Diabetes Type 2,Neurology,Day-Care,95.8,42.6,6.0,False,,20.8,140.0,,120.0,
+EXL0295,Patient IL,67,Male,Diabetes Type 2,Pulmonology,HDU,97.4,60.5,6.0,False,37153.61,,90.0,106.0,110.0,5.8
+EXL0296,Patient JL,42,Male,Anaemia,General Medicine,ICU,34.6,78.0,20.0,False,21583.01,36.0,,92.0,,12.2
+EXL0297,Patient KL,41,Male,Osteoporosis,Endocrinology,Day-Care,21.8,44.1,3.0,False,,,110.0,96.0,66.0,11.3
+EXL0298,Patient LL,30,Male,Depression,General Medicine,Emergency,77.6,40.3,17.0,True,23685.5,17.4,142.0,93.0,75.0,11.4
+EXL0299,Patient ML,77,Female,Diabetes Type 2,Endocrinology,Ward-B,53.4,96.2,12.0,False,76683.76,42.9,105.0,79.0,67.0,
+EXL0300,Patient NL,24,Non-Binary,Asthma,Orthopaedics,ICU,27.1,89.3,1.0,False,18684.78,18.6,150.0,94.0,92.0,10.6
+EXL0301,Patient OL,74,Male,Cardiac Arrhythmia,Nephrology,Emergency,74.7,88.6,17.0,False,75228.01,24.3,143.0,110.0,64.0,5.7
+EXL0302,Patient PL,53,Male,Asthma,Orthopaedics,HDU,63.6,93.1,3.0,False,47769.76,35.5,129.0,109.0,82.0,4.6
+EXL0303,Patient QL,62,Female,Chronic Kidney Disease,Cardiology,Day-Care,98.4,82.0,26.0,False,70507.25,20.9,115.0,113.0,,4.7
+EXL0304,Patient RL,37,Non-Binary,Diabetes Type 2,Pulmonology,Ward-B,38.2,46.3,15.0,False,60735.49,17.6,169.0,77.0,112.0,9.2
+EXL0305,Patient SL,82,Non-Binary,Depression,Endocrinology,ICU,52.3,63.9,36.0,False,59370.74,,181.0,,123.0,
+EXL0306,Patient TL,25,Female,Chronic Kidney Disease,General Medicine,Emergency,63.4,83.4,32.0,False,27907.22,38.2,154.0,83.0,132.0,8.6
+EXL0307,Patient UL,33,Female,Obesity,Nephrology,Emergency,83.3,56.8,32.0,True,20264.29,28.0,163.0,,133.0,4.6
+EXL0308,Patient VL,31,Non-Binary,Obesity,Endocrinology,Ward-B,63.9,81.2,4.0,True,18319.89,34.9,153.0,89.0,45.0,
+EXL0309,Patient WL,32,Male,Asthma,General Medicine,HDU,69.0,41.5,18.0,False,,32.8,132.0,103.0,51.0,10.2
+EXL0310,Patient XL,83,Non-Binary,Osteoporosis,Pulmonology,Ward-B,38.1,58.4,19.0,True,69826.07,16.6,106.0,112.0,101.0,8.0
+EXL0311,Patient YL,49,Female,Hypertension,Orthopaedics,Emergency,87.8,72.9,43.0,True,37728.46,44.7,148.0,69.0,56.0,10.4
+EXL0312,Patient ZL,80,Male,Osteoporosis,Pulmonology,Ward-A,54.3,77.9,35.0,False,11688.19,17.2,112.0,82.0,49.0,6.4
+EXL0313,Patient AM,68,Male,Anaemia,Psychiatry,ICU,31.3,74.6,40.0,False,32800.32,44.1,96.0,111.0,94.0,11.0
+EXL0314,Patient BM,42,Female,Osteoporosis,Cardiology,Ward-B,73.1,81.9,14.0,False,52834.52,31.9,133.0,,86.0,9.2
+EXL0315,Patient CM,75,Female,Anaemia,Psychiatry,Emergency,37.3,40.4,33.0,True,38897.07,43.9,142.0,70.0,56.0,6.2
+EXL0316,Patient DM,80,Female,Anaemia,Nephrology,HDU,27.8,46.1,14.0,False,66425.99,19.3,160.0,,62.0,6.4
+EXL0317,Patient EM,79,Non-Binary,Depression,Endocrinology,Emergency,89.0,92.1,34.0,True,84799.13,30.2,168.0,117.0,110.0,9.5
+EXL0318,Patient FM,39,Non-Binary,Diabetes Type 2,Nephrology,HDU,56.8,80.9,4.0,False,,20.9,123.0,85.0,118.0,11.1
+EXL0319,Patient GM,75,Male,Depression,Orthopaedics,Ward-B,79.9,46.8,24.0,False,39340.49,17.5,135.0,95.0,123.0,7.8
+EXL0320,Patient HM,75,Female,Anaemia,General Medicine,HDU,43.2,90.5,29.0,False,36918.14,,,92.0,61.0,6.6
+EXL0321,Patient IM,66,Male,Chronic Kidney Disease,Pulmonology,Day-Care,83.0,54.5,19.0,False,26229.62,22.0,167.0,106.0,112.0,11.4
+EXL0322,Patient JM,69,Male,Obesity,Psychiatry,Day-Care,29.0,68.7,6.0,True,17239.07,33.0,167.0,72.0,115.0,9.9
+EXL0323,Patient KM,59,Male,Anaemia,Neurology,Day-Care,48.5,48.7,33.0,False,6050.98,19.3,105.0,99.0,106.0,8.1
+EXL0324,Patient LM,87,Male,Depression,Psychiatry,Ward-A,98.2,82.6,40.0,False,75461.58,25.6,160.0,,85.0,8.4
+EXL0325,Patient MM,32,Female,Chronic Kidney Disease,Orthopaedics,Ward-B,83.5,80.0,,False,35977.21,38.7,108.0,,78.0,6.1
+EXL0326,Patient NM,71,Male,Depression,Psychiatry,Emergency,59.8,52.7,1.0,True,42487.67,28.7,91.0,101.0,114.0,9.5
+EXL0327,Patient OM,77,Female,Osteoporosis,Orthopaedics,Emergency,47.2,91.8,5.0,False,,,99.0,78.0,89.0,7.4
+EXL0328,Patient PM,25,Female,Cardiac Arrhythmia,Neurology,Ward-A,89.8,64.1,27.0,False,66096.55,34.8,139.0,77.0,102.0,12.5
+EXL0329,Patient QM,70,Non-Binary,Asthma,Nephrology,HDU,63.6,57.6,16.0,False,11527.36,40.5,170.0,96.0,95.0,8.3
+EXL0330,Patient RM,77,Female,Hypertension,Pulmonology,Ward-A,80.7,49.1,6.0,False,48277.99,25.4,101.0,89.0,78.0,8.4
+EXL0331,Patient SM,22,Non-Binary,Depression,Endocrinology,HDU,80.3,56.0,40.0,False,37870.32,35.9,159.0,78.0,88.0,9.0
+EXL0332,Patient TM,85,Female,Hypertension,General Medicine,HDU,21.4,41.3,13.0,False,67864.34,43.9,111.0,117.0,59.0,11.8
+EXL0333,Patient UM,23,Female,COPD,Endocrinology,ICU,30.1,75.0,35.0,False,61697.65,37.2,121.0,82.0,122.0,10.9
+EXL0334,Patient VM,64,Female,Depression,Nephrology,Emergency,72.8,90.5,19.0,False,58839.28,30.2,173.0,118.0,114.0,8.1
+EXL0335,Patient WM,72,Non-Binary,Cardiac Arrhythmia,General Medicine,Day-Care,32.9,72.9,12.0,False,29276.04,34.3,90.0,113.0,94.0,10.2
+EXL0336,Patient XM,57,Non-Binary,Hypertension,Psychiatry,HDU,40.4,53.2,16.0,False,68519.44,37.5,,75.0,76.0,9.2
+EXL0337,Patient YM,69,Male,Anaemia,Neurology,ICU,95.7,42.0,43.0,False,4927.06,33.8,147.0,60.0,111.0,8.4
+EXL0338,Patient ZM,33,Non-Binary,Depression,Neurology,Emergency,64.8,52.9,10.0,False,13988.3,16.5,159.0,71.0,47.0,6.0
+EXL0339,Patient AN,30,Non-Binary,Diabetes Type 2,Cardiology,Day-Care,80.1,65.0,25.0,False,,21.6,172.0,83.0,130.0,8.2
+EXL0340,Patient BN,47,Non-Binary,Asthma,Nephrology,HDU,64.6,85.6,,False,6990.23,39.5,,93.0,130.0,6.5
+EXL0341,Patient CN,36,Non-Binary,Cardiac Arrhythmia,Nephrology,HDU,64.2,51.3,,False,20357.02,23.9,95.0,112.0,118.0,11.8
+EXL0342,Patient DN,34,Male,Hypertension,Pulmonology,Ward-A,27.5,83.2,4.0,False,70647.76,37.2,134.0,116.0,95.0,
+EXL0343,Patient EN,80,Non-Binary,Cardiac Arrhythmia,Endocrinology,Ward-A,47.5,92.0,44.0,False,80627.25,26.8,112.0,67.0,111.0,12.1
+EXL0344,Patient FN,36,Female,Chronic Kidney Disease,Nephrology,Emergency,42.6,67.2,,False,26238.9,31.1,112.0,77.0,120.0,8.8
+EXL0345,Patient GN,75,Female,Asthma,Nephrology,Day-Care,51.3,89.3,2.0,True,22851.59,18.0,,116.0,92.0,9.6
+EXL0346,Patient HN,72,Non-Binary,Anaemia,Psychiatry,HDU,83.9,73.3,22.0,False,24150.93,21.3,166.0,107.0,61.0,8.8
+EXL0347,Patient IN,79,Non-Binary,Depression,Psychiatry,Emergency,49.8,78.2,37.0,False,23967.26,43.8,96.0,64.0,51.0,
+EXL0348,Patient JN,40,Female,Depression,General Medicine,Emergency,56.1,71.6,8.0,True,3536.1,41.8,168.0,85.0,57.0,7.5
+EXL0349,Patient KN,26,Female,Depression,Orthopaedics,Ward-B,51.8,67.8,7.0,False,78824.43,,133.0,,110.0,5.3
+EXL0350,Patient LN,29,Male,Asthma,Orthopaedics,Ward-A,27.5,54.1,14.0,False,18557.49,29.3,116.0,113.0,48.0,
+EXL0351,Patient MN,18,Female,Diabetes Type 2,Cardiology,Day-Care,55.3,58.2,3.0,True,35990.34,35.6,115.0,72.0,,8.1
+EXL0352,Patient NN,75,Female,COPD,Orthopaedics,HDU,35.6,57.4,16.0,False,1318.54,33.9,168.0,78.0,132.0,10.7
+EXL0353,Patient ON,18,Non-Binary,Obesity,Pulmonology,Emergency,34.9,73.8,19.0,False,72997.21,32.5,125.0,88.0,61.0,6.3
+EXL0354,Patient PN,51,Female,Osteoporosis,Cardiology,HDU,27.5,47.2,18.0,False,62282.8,17.7,144.0,62.0,96.0,5.8
+EXL0355,Patient QN,65,Male,Hypertension,General Medicine,Ward-B,48.5,95.0,16.0,False,80500.88,,153.0,85.0,50.0,7.8
+EXL0356,Patient RN,18,Female,Diabetes Type 2,Psychiatry,Day-Care,80.6,83.2,8.0,True,66546.51,38.3,180.0,99.0,127.0,11.9
+EXL0357,Patient SN,33,Non-Binary,Anaemia,Orthopaedics,Emergency,42.1,64.1,33.0,True,27008.2,44.8,146.0,118.0,113.0,10.2
+EXL0358,Patient TN,78,Non-Binary,Hypertension,Endocrinology,HDU,45.0,49.5,12.0,False,21445.3,16.3,158.0,,118.0,7.9
+EXL0359,Patient UN,81,Female,Depression,Psychiatry,Ward-A,71.4,92.9,11.0,False,59457.03,37.2,150.0,,53.0,8.6
+EXL0360,Patient VN,80,Non-Binary,Cardiac Arrhythmia,Neurology,Ward-B,35.7,89.4,5.0,False,31267.53,32.6,91.0,71.0,,5.2
+EXL0361,Patient WN,86,Male,Anaemia,Pulmonology,Day-Care,91.8,83.3,27.0,True,48345.17,28.6,144.0,61.0,127.0,12.4
+EXL0362,Patient XN,39,Male,Hypertension,Psychiatry,Ward-B,61.6,56.3,12.0,False,1028.76,19.7,169.0,70.0,65.0,9.8
+EXL0363,Patient YN,84,Female,Depression,Pulmonology,Ward-A,55.8,64.1,17.0,True,5729.34,27.9,176.0,103.0,68.0,6.8
+EXL0364,Patient ZN,43,Female,Hypertension,Pulmonology,Day-Care,64.6,46.2,6.0,True,45738.59,26.3,127.0,87.0,48.0,9.2
+EXL0365,Patient AO,33,Female,Cardiac Arrhythmia,Pulmonology,Ward-B,33.3,51.3,33.0,False,48333.05,24.8,169.0,77.0,68.0,5.4
+EXL0366,Patient BO,68,Non-Binary,Depression,General Medicine,ICU,69.1,87.0,5.0,False,,37.2,167.0,72.0,103.0,
+EXL0367,Patient CO,74,Male,COPD,Pulmonology,Ward-A,49.0,82.9,28.0,False,11651.07,,118.0,96.0,47.0,5.9
+EXL0368,Patient DO,46,Male,Diabetes Type 2,Pulmonology,Ward-A,91.8,75.6,14.0,False,43863.97,33.1,115.0,,,9.7
+EXL0369,Patient EO,86,Non-Binary,Chronic Kidney Disease,Neurology,Ward-A,33.5,93.7,5.0,False,16930.83,43.2,124.0,71.0,84.0,6.5
+EXL0370,Patient FO,64,Male,Osteoporosis,Endocrinology,ICU,60.6,75.0,33.0,False,8375.07,26.1,168.0,61.0,92.0,
+EXL0371,Patient GO,79,Female,Asthma,Cardiology,ICU,67.8,68.0,41.0,False,35186.89,23.1,156.0,96.0,98.0,10.7
+EXL0372,Patient HO,86,Female,Osteoporosis,Nephrology,HDU,22.7,60.4,19.0,False,14301.95,35.0,176.0,66.0,79.0,9.9
+EXL0373,Patient IO,33,Female,Anaemia,Neurology,Emergency,49.1,96.4,22.0,False,19240.58,21.8,118.0,85.0,100.0,9.4
+EXL0374,Patient JO,65,Male,Osteoporosis,Cardiology,Ward-B,78.6,45.0,5.0,False,27333.36,25.1,123.0,85.0,133.0,11.6
+EXL0375,Patient KO,56,Female,Depression,Pulmonology,HDU,85.6,95.9,2.0,True,22418.32,22.5,130.0,83.0,84.0,5.1
+EXL0376,Patient LO,50,Non-Binary,COPD,Endocrinology,Ward-B,45.1,89.6,30.0,False,7901.46,18.0,130.0,71.0,121.0,7.1
+EXL0377,Patient MO,40,Non-Binary,Chronic Kidney Disease,Psychiatry,Emergency,83.9,47.8,39.0,True,8097.92,40.0,112.0,75.0,,6.5
+EXL0378,Patient NO,27,Male,Diabetes Type 2,Endocrinology,ICU,97.4,73.9,4.0,False,16829.58,23.4,160.0,82.0,90.0,12.4
+EXL0379,Patient OO,86,Non-Binary,Diabetes Type 2,Neurology,Emergency,88.5,92.0,33.0,False,4772.25,29.7,,99.0,122.0,7.6
+EXL0380,Patient PO,51,Non-Binary,Cardiac Arrhythmia,Pulmonology,ICU,29.4,74.3,13.0,True,53435.62,17.3,147.0,119.0,57.0,10.4
+EXL0381,Patient QO,69,Male,Asthma,Endocrinology,Emergency,79.2,94.4,20.0,False,24779.11,36.3,121.0,68.0,71.0,10.0
+EXL0382,Patient RO,27,Female,Hypertension,Orthopaedics,HDU,45.6,96.6,7.0,False,24138.53,25.6,120.0,91.0,,6.2
+EXL0383,Patient SO,36,Female,COPD,Endocrinology,Day-Care,99.1,65.3,,False,28553.86,37.6,171.0,74.0,61.0,6.4
+EXL0384,Patient TO,75,Female,Hypertension,Pulmonology,HDU,58.8,62.6,23.0,False,56506.29,28.0,132.0,96.0,80.0,6.8
+EXL0385,Patient UO,18,Male,Chronic Kidney Disease,General Medicine,Ward-B,29.8,96.2,14.0,False,74068.56,21.7,96.0,72.0,125.0,7.8
+EXL0386,Patient VO,86,Non-Binary,Osteoporosis,Orthopaedics,HDU,78.0,80.5,23.0,False,64642.85,,,64.0,46.0,6.4
+EXL0387,Patient WO,21,Female,Diabetes Type 2,Endocrinology,Ward-A,45.8,47.0,19.0,False,61976.22,19.8,150.0,70.0,121.0,4.7
+EXL0388,Patient XO,33,Female,Chronic Kidney Disease,Nephrology,Ward-B,99.8,42.5,29.0,False,41431.06,,103.0,69.0,96.0,
+EXL0389,Patient YO,41,Male,Osteoporosis,Nephrology,Emergency,98.4,73.9,20.0,False,59126.57,25.2,141.0,111.0,110.0,12.2
+EXL0390,Patient ZO,19,Female,Diabetes Type 2,Endocrinology,Ward-B,72.5,95.8,,False,47208.42,42.4,95.0,72.0,96.0,7.2
+EXL0391,Patient AP,49,Male,Osteoporosis,General Medicine,Day-Care,30.4,90.7,24.0,False,18773.17,17.8,99.0,100.0,87.0,7.2
+EXL0392,Patient BP,41,Non-Binary,Asthma,Psychiatry,ICU,74.9,80.6,18.0,False,18125.72,36.1,160.0,112.0,134.0,4.6
+EXL0393,Patient CP,29,Male,COPD,Pulmonology,Emergency,27.4,48.3,10.0,True,25545.12,,179.0,105.0,66.0,9.9
+EXL0394,Patient DP,67,Male,Anaemia,Nephrology,Ward-B,22.3,55.3,41.0,True,77462.83,25.3,119.0,109.0,99.0,
+EXL0395,Patient EP,52,Male,Chronic Kidney Disease,Psychiatry,Emergency,85.8,92.5,8.0,True,46756.55,28.0,110.0,74.0,111.0,5.7
+EXL0396,Patient FP,50,Male,Chronic Kidney Disease,Endocrinology,Emergency,36.8,51.0,26.0,False,62515.0,42.3,149.0,,104.0,5.8
+EXL0397,Patient GP,50,Non-Binary,Obesity,Neurology,Emergency,50.3,56.7,29.0,False,,23.0,170.0,115.0,102.0,10.8
+EXL0398,Patient HP,78,Non-Binary,Depression,Psychiatry,ICU,97.9,47.8,10.0,False,34951.98,18.6,163.0,,56.0,
+EXL0399,Patient IP,68,Female,Asthma,Orthopaedics,HDU,46.9,80.6,17.0,False,11110.29,25.2,152.0,99.0,132.0,4.9
+EXL0400,Patient JP,60,Non-Binary,Asthma,Cardiology,Emergency,43.7,96.6,2.0,False,14974.42,19.0,131.0,87.0,113.0,9.5
+EXL0401,Patient KP,29,Non-Binary,Hypertension,Nephrology,Ward-A,93.5,56.1,6.0,True,70411.63,19.7,140.0,91.0,128.0,7.0
+EXL0402,Patient LP,84,Female,Osteoporosis,Endocrinology,Day-Care,28.9,68.5,5.0,False,49918.86,32.6,153.0,94.0,83.0,7.4
+EXL0403,Patient MP,82,Non-Binary,Depression,Neurology,ICU,80.8,78.1,28.0,False,29021.49,,165.0,74.0,57.0,10.7
+EXL0404,Patient NP,50,Male,COPD,Pulmonology,Ward-B,99.0,100.0,41.0,False,68340.93,16.9,145.0,,85.0,11.0
+EXL0405,Patient OP,57,Male,COPD,Neurology,ICU,92.1,46.3,5.0,False,21330.93,36.7,169.0,95.0,101.0,7.7
+EXL0406,Patient PP,60,Female,Asthma,General Medicine,Ward-B,72.1,69.9,,False,82974.76,26.5,130.0,80.0,97.0,12.1
+EXL0407,Patient QP,61,Female,COPD,Orthopaedics,ICU,45.1,63.1,26.0,False,29637.09,19.6,121.0,65.0,56.0,7.8
+EXL0408,Patient RP,46,Female,Obesity,Endocrinology,Ward-B,40.3,91.9,20.0,False,,23.4,104.0,60.0,57.0,10.7
+EXL0409,Patient SP,30,Male,Chronic Kidney Disease,Pulmonology,Emergency,85.5,68.6,41.0,False,26856.56,34.6,151.0,63.0,118.0,8.4
+EXL0410,Patient TP,29,Non-Binary,Cardiac Arrhythmia,General Medicine,HDU,90.4,46.7,27.0,False,10818.42,,116.0,,101.0,11.7
+EXL0411,Patient UP,63,Male,Anaemia,General Medicine,Ward-B,62.0,78.1,12.0,True,9891.09,30.3,117.0,103.0,84.0,11.8
+EXL0412,Patient VP,19,Female,Hypertension,Endocrinology,Ward-B,39.5,86.2,7.0,False,55264.88,,170.0,,124.0,5.2
+EXL0413,Patient WP,52,Non-Binary,Osteoporosis,Orthopaedics,Ward-A,29.0,40.2,3.0,True,74447.47,33.1,153.0,96.0,89.0,12.0
+EXL0414,Patient XP,25,Non-Binary,Anaemia,Psychiatry,Ward-B,27.0,91.5,10.0,False,67298.98,25.2,148.0,82.0,,11.1
+EXL0415,Patient YP,43,Male,Osteoporosis,Psychiatry,Ward-A,77.5,51.2,34.0,True,12423.59,34.2,147.0,88.0,47.0,10.8
+EXL0416,Patient ZP,51,Female,Diabetes Type 2,General Medicine,Day-Care,53.6,73.1,25.0,False,46601.69,39.4,,80.0,49.0,6.1
+EXL0417,Patient AQ,24,Male,Anaemia,Psychiatry,Emergency,92.4,64.9,35.0,False,9422.49,33.7,125.0,107.0,134.0,
+EXL0418,Patient BQ,85,Non-Binary,Cardiac Arrhythmia,Cardiology,Ward-A,79.2,83.2,16.0,False,4327.4,24.6,160.0,104.0,55.0,11.3
+EXL0419,Patient CQ,75,Male,Asthma,General Medicine,HDU,35.3,62.3,2.0,True,55964.61,23.4,102.0,104.0,115.0,6.8
+EXL0420,Patient DQ,46,Male,Obesity,General Medicine,Emergency,69.1,92.2,24.0,True,45720.37,25.5,104.0,108.0,100.0,12.1
+EXL0421,Patient EQ,53,Female,Chronic Kidney Disease,Pulmonology,Ward-A,54.8,83.8,10.0,True,7431.0,20.8,178.0,86.0,54.0,4.9
+EXL0422,Patient FQ,38,Female,Chronic Kidney Disease,Psychiatry,Emergency,66.2,78.9,38.0,True,3452.37,21.3,,98.0,78.0,5.7
+EXL0423,Patient GQ,53,Non-Binary,Obesity,Orthopaedics,Emergency,79.0,87.8,22.0,True,84134.42,38.9,149.0,99.0,111.0,8.8
+EXL0424,Patient HQ,27,Male,Depression,General Medicine,Emergency,84.5,85.2,26.0,False,3036.8,27.2,111.0,72.0,116.0,
+EXL0425,Patient IQ,41,Male,Diabetes Type 2,Neurology,Day-Care,87.5,42.2,43.0,True,38062.64,28.6,152.0,82.0,,9.7
+EXL0426,Patient JQ,81,Male,Osteoporosis,Orthopaedics,HDU,40.3,63.7,39.0,True,43140.31,33.2,179.0,118.0,119.0,4.6
+EXL0427,Patient KQ,66,Non-Binary,Cardiac Arrhythmia,Cardiology,ICU,22.5,95.8,27.0,False,10410.17,33.1,164.0,75.0,115.0,12.2
+EXL0428,Patient LQ,53,Non-Binary,COPD,Pulmonology,ICU,79.1,47.5,29.0,False,14785.72,,163.0,89.0,110.0,4.9
+EXL0429,Patient MQ,41,Female,Anaemia,Endocrinology,Ward-A,28.5,84.2,38.0,False,,40.1,114.0,63.0,114.0,5.6
+EXL0430,Patient NQ,40,Female,Diabetes Type 2,Orthopaedics,Emergency,45.2,98.5,20.0,False,64861.61,21.1,137.0,99.0,85.0,4.6
+EXL0431,Patient OQ,79,Female,Anaemia,General Medicine,Ward-A,20.3,43.1,,False,43348.46,37.0,132.0,75.0,107.0,9.0
+EXL0432,Patient PQ,54,Male,Cardiac Arrhythmia,Cardiology,Day-Care,74.5,80.9,41.0,True,54402.71,38.4,127.0,90.0,76.0,12.0
+EXL0433,Patient QQ,29,Male,Hypertension,Nephrology,Day-Care,33.4,68.1,20.0,False,83747.25,36.7,130.0,112.0,64.0,9.8
+EXL0434,Patient RQ,72,Female,Hypertension,Cardiology,Ward-B,72.4,74.8,44.0,False,65396.46,32.8,134.0,101.0,101.0,
+EXL0435,Patient SQ,30,Male,Diabetes Type 2,Cardiology,Day-Care,99.3,45.1,19.0,True,37203.55,16.4,177.0,84.0,94.0,4.6
+EXL0436,Patient TQ,40,Female,Asthma,Pulmonology,Ward-B,25.8,42.6,,False,38224.34,26.5,129.0,103.0,124.0,8.8
+EXL0437,Patient UQ,47,Non-Binary,Cardiac Arrhythmia,Endocrinology,HDU,26.2,80.0,35.0,False,52786.24,33.5,106.0,71.0,69.0,8.2
+EXL0438,Patient VQ,34,Female,Cardiac Arrhythmia,Nephrology,Ward-A,47.2,89.4,2.0,True,56723.36,27.2,177.0,85.0,56.0,8.5
+EXL0439,Patient WQ,79,Non-Binary,Obesity,Psychiatry,HDU,89.3,86.9,30.0,False,42810.07,41.0,146.0,96.0,115.0,5.1
+EXL0440,Patient XQ,30,Male,Asthma,Psychiatry,Day-Care,37.2,72.6,34.0,False,54990.77,25.0,,107.0,83.0,10.0
+EXL0441,Patient YQ,76,Female,Osteoporosis,Orthopaedics,HDU,48.8,46.0,22.0,False,2488.5,24.5,,92.0,61.0,8.5
+EXL0442,Patient ZQ,36,Male,Osteoporosis,Cardiology,HDU,25.5,81.3,3.0,True,36803.13,,177.0,87.0,89.0,10.6
+EXL0443,Patient AR,66,Non-Binary,COPD,Neurology,HDU,81.1,54.5,6.0,False,24070.27,25.7,98.0,68.0,55.0,8.4
+EXL0444,Patient BR,29,Non-Binary,Chronic Kidney Disease,Pulmonology,Day-Care,52.7,94.7,15.0,False,11415.24,32.2,157.0,71.0,114.0,5.7
+EXL0445,Patient CR,78,Non-Binary,Hypertension,Neurology,Emergency,80.7,90.3,27.0,False,8911.68,36.5,170.0,64.0,67.0,
+EXL0446,Patient DR,36,Male,Osteoporosis,Pulmonology,HDU,92.3,82.6,10.0,False,51469.74,35.2,106.0,113.0,114.0,5.9
+EXL0447,Patient ER,26,Male,Asthma,Psychiatry,Ward-B,38.6,96.9,9.0,True,44744.25,39.4,139.0,111.0,82.0,11.5
+EXL0448,Patient FR,45,Male,Cardiac Arrhythmia,Orthopaedics,Day-Care,84.6,41.9,33.0,True,21927.86,,183.0,113.0,46.0,9.4
+EXL0449,Patient GR,69,Male,Osteoporosis,Orthopaedics,HDU,24.7,84.2,32.0,False,40295.28,39.7,129.0,87.0,130.0,5.8
+EXL0450,Patient HR,33,Non-Binary,Cardiac Arrhythmia,Orthopaedics,Emergency,91.9,59.8,6.0,False,42093.63,16.5,147.0,115.0,128.0,12.2
+EXL0451,Patient IR,86,Non-Binary,Osteoporosis,Nephrology,Day-Care,72.1,94.4,41.0,False,16978.26,37.3,164.0,94.0,,8.6
+EXL0452,Patient JR,29,Female,Hypertension,Endocrinology,ICU,89.9,56.0,36.0,False,55601.86,22.0,174.0,64.0,123.0,
+EXL0453,Patient KR,42,Female,Anaemia,Nephrology,Emergency,20.0,83.5,2.0,False,66487.69,19.9,110.0,93.0,116.0,9.5
+EXL0454,Patient LR,69,Male,Osteoporosis,General Medicine,Ward-B,33.5,92.7,29.0,False,67378.67,34.5,107.0,,81.0,6.5
+EXL0455,Patient MR,70,Non-Binary,Asthma,General Medicine,HDU,51.2,42.5,4.0,False,51408.7,,144.0,93.0,93.0,10.9
+EXL0456,Patient NR,40,Non-Binary,Osteoporosis,Neurology,ICU,50.4,63.9,1.0,True,43733.46,17.7,118.0,72.0,96.0,11.0
+EXL0457,Patient OR,33,Non-Binary,Chronic Kidney Disease,Endocrinology,ICU,38.1,85.7,19.0,False,5655.1,20.0,,98.0,77.0,12.3
+EXL0458,Patient PR,74,Female,Hypertension,Psychiatry,Day-Care,50.5,67.3,26.0,False,24821.74,16.0,163.0,101.0,66.0,8.5
+EXL0459,Patient QR,56,Female,Asthma,Endocrinology,ICU,30.3,56.0,25.0,False,8381.44,42.2,106.0,104.0,49.0,8.1
+EXL0460,Patient RR,70,Non-Binary,Obesity,Pulmonology,Ward-B,53.0,53.2,10.0,False,81943.06,16.7,107.0,107.0,62.0,10.5
+EXL0461,Patient SR,59,Non-Binary,Asthma,General Medicine,Ward-B,84.2,47.9,15.0,True,11914.27,22.1,131.0,117.0,82.0,5.6
+EXL0462,Patient TR,75,Non-Binary,Chronic Kidney Disease,Cardiology,Ward-A,58.3,91.4,22.0,True,13325.02,28.1,173.0,73.0,81.0,
+EXL0463,Patient UR,56,Female,Anaemia,Cardiology,Ward-B,21.4,74.5,21.0,True,,26.3,134.0,70.0,108.0,8.9
+EXL0464,Patient VR,31,Non-Binary,Hypertension,Psychiatry,Emergency,53.7,44.6,22.0,False,80261.94,42.4,,101.0,54.0,5.2
+EXL0465,Patient WR,22,Non-Binary,Obesity,Pulmonology,ICU,22.2,63.0,36.0,False,65212.55,17.2,106.0,97.0,123.0,7.8
+EXL0466,Patient XR,52,Male,Chronic Kidney Disease,Neurology,Ward-B,97.3,62.1,34.0,False,956.72,30.9,162.0,63.0,86.0,11.3
+EXL0467,Patient YR,35,Male,Chronic Kidney Disease,Nephrology,Day-Care,30.2,50.9,30.0,True,613.76,35.7,103.0,112.0,92.0,11.3
+EXL0468,Patient ZR,26,Female,Diabetes Type 2,Pulmonology,Ward-A,76.6,66.1,25.0,False,32449.52,43.0,138.0,92.0,88.0,5.3
+EXL0469,Patient AS,75,Non-Binary,Hypertension,Cardiology,ICU,97.8,59.9,28.0,False,12616.91,,118.0,66.0,126.0,5.2
+EXL0470,Patient BS,34,Non-Binary,Asthma,Cardiology,Ward-A,86.1,60.5,1.0,False,2053.63,39.3,184.0,115.0,,6.6
+EXL0471,Patient CS,24,Male,Cardiac Arrhythmia,Neurology,ICU,75.9,84.3,4.0,False,39713.64,,93.0,100.0,60.0,
+EXL0472,Patient DS,63,Female,Anaemia,General Medicine,Day-Care,87.2,53.4,7.0,False,80188.73,27.2,171.0,67.0,98.0,5.5
+EXL0473,Patient ES,30,Male,Cardiac Arrhythmia,Pulmonology,Ward-A,98.5,78.5,9.0,False,27862.75,26.8,109.0,96.0,79.0,10.3
+EXL0474,Patient FS,57,Male,Asthma,Pulmonology,HDU,69.7,74.2,36.0,True,56366.39,41.7,136.0,110.0,72.0,5.3
+EXL0475,Patient GS,59,Male,Asthma,Cardiology,Emergency,64.7,74.1,19.0,False,55613.89,20.4,98.0,69.0,46.0,9.5
+EXL0476,Patient HS,26,Male,Hypertension,Nephrology,Emergency,70.3,79.8,1.0,True,21716.27,20.4,166.0,102.0,,7.3
+EXL0477,Patient IS,67,Non-Binary,Asthma,Psychiatry,ICU,62.6,72.9,10.0,False,55460.93,25.5,168.0,116.0,85.0,10.8
+EXL0478,Patient JS,44,Non-Binary,Diabetes Type 2,Orthopaedics,HDU,70.8,92.8,36.0,False,18442.22,,116.0,74.0,124.0,6.4
+EXL0479,Patient KS,83,Male,Obesity,Psychiatry,Ward-A,56.0,80.5,9.0,False,10809.63,,104.0,97.0,103.0,9.6
+EXL0480,Patient LS,22,Female,Asthma,Pulmonology,HDU,37.5,72.8,42.0,False,59766.89,44.0,181.0,74.0,113.0,6.4
+EXL0481,Patient MS,46,Female,Cardiac Arrhythmia,Psychiatry,HDU,29.6,89.8,32.0,False,10085.75,28.4,108.0,64.0,97.0,10.2
+EXL0482,Patient NS,54,Female,Asthma,Cardiology,Ward-A,25.5,76.4,32.0,False,84738.83,34.3,179.0,88.0,89.0,11.5
+EXL0483,Patient OS,55,Female,Diabetes Type 2,Cardiology,Day-Care,41.1,57.5,,False,16001.73,37.1,141.0,78.0,64.0,5.5
+EXL0484,Patient PS,25,Male,Osteoporosis,Neurology,HDU,23.7,52.4,38.0,False,50704.99,26.6,115.0,113.0,68.0,11.4
+EXL0485,Patient QS,82,Non-Binary,Osteoporosis,Pulmonology,HDU,65.4,49.1,17.0,False,35261.15,20.3,178.0,110.0,105.0,9.2
+EXL0486,Patient RS,34,Female,Chronic Kidney Disease,Neurology,Day-Care,42.7,94.0,10.0,False,11179.65,22.0,,69.0,102.0,5.5
+EXL0487,Patient SS,62,Male,Anaemia,Pulmonology,HDU,86.0,82.6,27.0,False,2852.81,25.1,115.0,,71.0,7.9
+EXL0488,Patient TS,21,Female,COPD,Orthopaedics,HDU,25.9,96.2,35.0,False,53120.88,34.4,135.0,113.0,70.0,5.8
+EXL0489,Patient US,53,Female,Obesity,Orthopaedics,HDU,38.1,76.2,21.0,False,68671.01,27.6,181.0,63.0,51.0,10.1
+EXL0490,Patient VS,87,Male,Depression,General Medicine,Emergency,78.4,68.4,25.0,False,,16.2,,90.0,86.0,10.6
+EXL0491,Patient WS,48,Non-Binary,Chronic Kidney Disease,Pulmonology,Ward-B,67.9,43.6,28.0,False,41289.29,31.2,171.0,77.0,91.0,5.3
+EXL0492,Patient XS,36,Non-Binary,Anaemia,Nephrology,Day-Care,25.2,80.3,,True,66194.99,42.7,142.0,,97.0,
+EXL0493,Patient YS,78,Male,Osteoporosis,Psychiatry,HDU,90.2,74.9,4.0,False,57355.58,39.6,92.0,99.0,103.0,11.0
+EXL0494,Patient ZS,71,Non-Binary,Cardiac Arrhythmia,Pulmonology,Emergency,90.2,99.4,29.0,True,61699.51,39.9,155.0,95.0,82.0,12.0
+EXL0495,Patient AT,56,Male,Depression,Endocrinology,Day-Care,46.4,54.3,9.0,False,42124.62,39.1,131.0,84.0,113.0,8.6
+EXL0496,Patient BT,36,Male,Anaemia,General Medicine,ICU,47.2,71.8,27.0,False,54023.29,25.4,108.0,82.0,131.0,12.1
+EXL0497,Patient CT,56,Male,Anaemia,Endocrinology,ICU,99.1,79.1,26.0,False,,38.2,106.0,71.0,97.0,8.8
+EXL0498,Patient DT,84,Non-Binary,Chronic Kidney Disease,Cardiology,HDU,70.1,78.7,19.0,False,34121.21,,122.0,93.0,59.0,7.7
+EXL0499,Patient ET,62,Male,Depression,Orthopaedics,Emergency,62.5,73.7,28.0,False,68605.22,35.1,165.0,95.0,70.0,11.3
+EXL0500,Patient FT,30,Female,Hypertension,Psychiatry,Emergency,87.1,86.6,17.0,False,50525.42,34.6,138.0,96.0,92.0,8.4

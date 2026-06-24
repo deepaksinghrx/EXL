@@ -1,0 +1,6 @@
+id,age,conditions,gender,visit,cost,cost_per_visit,age_group
+101,23,diabetic,M,1,1000,1000.0,Young
+102,34,hypertension,F,2,2200,1100.0,Adult
+103,45,asthma,M,3,1450,483.3333333333333,Adult
+104,56,fever,F,1,3400,3400.0,Senior
+105,67,ocd,M,5,2500,500.0,Elderly

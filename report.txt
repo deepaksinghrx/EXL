@@ -1,0 +1,7 @@
+Active Customer Report
+======================
+Total active customers: 3
+
+101 - John Smith (john.smith@example.com)
+103 - Michael Brown (michael.brown@example.com)
+104 - Sophia Davis (sophia.davis@example.com)
