@@ -1,0 +1,1001 @@
+review_id,food_item,rating,calerioes,review_text,sentiment
+1,salad,5,73,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+2,salad,2,32,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+3,steak,5,50,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+4,sandwich,4,87,"The sandwich was okay, nothing special but not bad either.",neutral
+5,fried chicken,2,61,"The fried chicken was okay, nothing special but not bad either.",neutral
+6,curry,2,12,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+7,ice cream,5,67,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+8,tacos,3,63,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+9,steak,4,85,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+10,pizza,1,180,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+11,fried chicken,1,41,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+12,fried chicken,2,148,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+13,burger,4,48,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+14,pasta,3,95,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+15,ice cream,5,15,"The ice cream was okay, nothing special but not bad either.",neutral
+16,salad,1,76,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+17,soup,2,22,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+18,fried chicken,4,124,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+19,steak,2,114,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+20,pasta,5,150,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+21,steak,4,124,"The steak was okay, nothing special but not bad either.",neutral
+22,pasta,3,66,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+23,sushi,1,44,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+24,curry,1,15,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+25,pizza,1,105,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+26,sushi,1,125,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+27,sushi,4,51,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+28,curry,2,27,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+29,tacos,1,193,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+30,fried chicken,4,166,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+31,pasta,5,135,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+32,soup,4,25,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+33,curry,2,75,"I don't Like the curry, it was disappointing and not worth the price.",negative
+34,burger,3,32,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+35,soup,2,172,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+36,burger,2,2,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+37,sushi,5,196,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+38,curry,3,167,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+39,fried chicken,2,16,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+40,sandwich,3,181,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+41,sandwich,3,62,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+42,burger,3,181,"I don't Like the burger, it was disappointing and not worth the price.",negative
+43,pizza,2,112,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+44,fried chicken,1,104,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+45,soup,1,134,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+46,salad,3,14,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+47,pizza,5,187,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+48,soup,4,170,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+49,sushi,2,41,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+50,sushi,2,4,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+51,curry,1,56,"I don't Like the curry, it was disappointing and not worth the price.",negative
+52,tacos,3,119,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+53,salad,2,138,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+54,pizza,4,18,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+55,pasta,3,187,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+56,burger,2,190,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+57,sushi,3,23,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+58,sandwich,3,93,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+59,tacos,2,176,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+60,tacos,3,16,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+61,salad,3,151,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+62,sushi,1,146,"The sushi was okay, nothing special but not bad either.",neutral
+63,tacos,5,80,"The tacos was okay, nothing special but not bad either.",neutral
+64,fried chicken,3,127,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+65,fried chicken,2,169,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+66,tacos,3,33,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+67,pasta,1,128,"The pasta was okay, nothing special but not bad either.",neutral
+68,soup,1,170,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+69,salad,4,34,"The salad was okay, nothing special but not bad either.",neutral
+70,tacos,1,64,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+71,steak,2,30,"I don't Like the steak, it was disappointing and not worth the price.",negative
+72,pizza,3,19,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+73,salad,5,22,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+74,sushi,4,64,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+75,sandwich,3,15,"The sandwich was okay, nothing special but not bad either.",neutral
+76,pizza,2,57,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+77,sandwich,4,199,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+78,pizza,2,82,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+79,pizza,5,23,"The pizza was okay, nothing special but not bad either.",neutral
+80,pizza,3,73,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+81,salad,3,72,"I don't Like the salad, it was disappointing and not worth the price.",negative
+82,sushi,4,157,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+83,steak,2,38,"The steak was okay, nothing special but not bad either.",neutral
+84,salad,1,2,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+85,pizza,1,156,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+86,steak,4,78,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+87,curry,2,64,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+88,curry,2,41,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+89,salad,2,48,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+90,pizza,1,154,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+91,fried chicken,5,100,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+92,steak,5,61,"I don't Like the steak, it was disappointing and not worth the price.",negative
+93,pasta,2,122,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+94,ice cream,2,152,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+95,salad,5,38,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+96,soup,4,131,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+97,salad,2,68,"I don't Like the salad, it was disappointing and not worth the price.",negative
+98,pasta,3,160,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+99,burger,2,73,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+100,pizza,4,50,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+101,curry,4,54,"I don't Like the curry, it was disappointing and not worth the price.",negative
+102,pasta,1,79,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+103,pizza,2,190,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+104,curry,5,87,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+105,sushi,4,60,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+106,fried chicken,4,196,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+107,tacos,1,86,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+108,pizza,2,30,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+109,tacos,3,115,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+110,fried chicken,4,184,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+111,pasta,1,83,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+112,sandwich,1,186,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+113,steak,3,73,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+114,tacos,4,119,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+115,sushi,4,32,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+116,steak,3,66,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+117,sandwich,5,161,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+118,salad,5,90,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+119,curry,3,164,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+120,ice cream,3,115,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+121,ice cream,3,186,"The ice cream was okay, nothing special but not bad either.",neutral
+122,curry,4,1,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+123,sushi,5,122,"The sushi was okay, nothing special but not bad either.",neutral
+124,tacos,4,83,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+125,soup,2,198,"The soup was okay, nothing special but not bad either.",neutral
+126,sandwich,3,23,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+127,soup,3,119,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+128,ice cream,3,179,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+129,steak,5,6,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+130,soup,3,110,"I don't Like the soup, it was disappointing and not worth the price.",negative
+131,steak,3,25,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+132,fried chicken,4,123,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+133,sandwich,4,189,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+134,soup,5,142,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+135,burger,2,34,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+136,burger,5,8,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+137,sushi,3,70,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+138,pasta,2,61,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+139,steak,3,152,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+140,pasta,5,129,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+141,burger,2,111,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+142,salad,3,156,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+143,fried chicken,2,32,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+144,curry,4,100,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+145,sushi,5,189,"The sushi was okay, nothing special but not bad either.",neutral
+146,sandwich,1,165,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+147,curry,5,142,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+148,pizza,3,128,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+149,tacos,1,92,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+150,pasta,2,95,"The pasta was okay, nothing special but not bad either.",neutral
+151,salad,4,114,"I don't Like the salad, it was disappointing and not worth the price.",negative
+152,sandwich,2,114,"The sandwich was okay, nothing special but not bad either.",neutral
+153,salad,2,70,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+154,steak,1,46,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+155,pasta,5,6,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+156,curry,4,79,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+157,burger,4,36,"I don't Like the burger, it was disappointing and not worth the price.",negative
+158,ice cream,3,181,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+159,tacos,2,173,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+160,sushi,1,112,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+161,pizza,1,43,"The pizza was okay, nothing special but not bad either.",neutral
+162,sandwich,1,89,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+163,pizza,5,1,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+164,pizza,1,25,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+165,steak,5,75,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+166,soup,1,58,"I don't Like the soup, it was disappointing and not worth the price.",negative
+167,curry,3,126,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+168,sandwich,4,68,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+169,pizza,2,98,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+170,tacos,3,62,"The tacos was okay, nothing special but not bad either.",neutral
+171,steak,2,49,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+172,steak,4,76,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+173,pizza,2,135,"The pizza was okay, nothing special but not bad either.",neutral
+174,curry,3,134,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+175,curry,3,44,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+176,sandwich,1,0,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+177,sushi,4,127,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+178,ice cream,1,22,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+179,tacos,3,93,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+180,sandwich,4,56,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+181,steak,1,98,"The steak was okay, nothing special but not bad either.",neutral
+182,sandwich,2,143,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+183,tacos,3,198,"The tacos was okay, nothing special but not bad either.",neutral
+184,steak,5,115,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+185,curry,1,10,"I don't Like the curry, it was disappointing and not worth the price.",negative
+186,steak,4,168,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+187,pasta,1,71,"The pasta was okay, nothing special but not bad either.",neutral
+188,sushi,5,140,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+189,ice cream,5,33,"The ice cream was okay, nothing special but not bad either.",neutral
+190,burger,1,137,"I don't Like the burger, it was disappointing and not worth the price.",negative
+191,steak,1,108,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+192,pizza,5,80,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+193,sushi,5,114,"The sushi was okay, nothing special but not bad either.",neutral
+194,soup,3,83,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+195,tacos,5,144,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+196,steak,3,133,"The steak was okay, nothing special but not bad either.",neutral
+197,fried chicken,3,87,"The fried chicken was okay, nothing special but not bad either.",neutral
+198,sushi,4,10,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+199,pasta,2,66,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+200,pizza,5,34,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+201,sushi,3,146,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+202,tacos,2,92,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+203,steak,3,113,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+204,fried chicken,4,89,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+205,pizza,1,67,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+206,salad,2,84,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+207,burger,4,190,"I don't Like the burger, it was disappointing and not worth the price.",negative
+208,steak,4,26,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+209,fried chicken,5,157,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+210,sushi,2,62,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+211,curry,3,181,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+212,ice cream,4,153,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+213,sushi,1,183,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+214,fried chicken,5,131,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+215,fried chicken,5,86,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+216,curry,1,35,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+217,pasta,1,1,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+218,sandwich,5,102,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+219,curry,5,123,"The curry was okay, nothing special but not bad either.",neutral
+220,sandwich,2,135,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+221,burger,1,13,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+222,salad,5,44,"I don't Like the salad, it was disappointing and not worth the price.",negative
+223,pasta,3,159,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+224,sandwich,2,76,"The sandwich was okay, nothing special but not bad either.",neutral
+225,pasta,2,100,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+226,salad,5,68,"The salad was okay, nothing special but not bad either.",neutral
+227,soup,4,69,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+228,sandwich,5,116,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+229,curry,4,29,"The curry was okay, nothing special but not bad either.",neutral
+230,salad,4,44,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+231,pizza,5,198,"The pizza was okay, nothing special but not bad either.",neutral
+232,steak,5,122,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+233,burger,2,184,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+234,steak,1,163,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+235,sushi,2,65,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+236,sushi,4,2,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+237,sushi,3,189,"The sushi was okay, nothing special but not bad either.",neutral
+238,curry,5,47,"I don't Like the curry, it was disappointing and not worth the price.",negative
+239,soup,4,59,"I don't Like the soup, it was disappointing and not worth the price.",negative
+240,burger,2,16,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+241,pasta,5,12,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+242,fried chicken,1,103,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+243,tacos,2,156,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+244,tacos,2,6,"The tacos was okay, nothing special but not bad either.",neutral
+245,ice cream,4,96,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+246,pizza,4,48,"The pizza was okay, nothing special but not bad either.",neutral
+247,fried chicken,2,170,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+248,pasta,1,128,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+249,salad,3,52,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+250,ice cream,1,48,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+251,sandwich,2,61,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+252,curry,2,128,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+253,sushi,5,198,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+254,ice cream,2,57,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+255,sushi,2,24,"The sushi was okay, nothing special but not bad either.",neutral
+256,pasta,1,67,"The pasta was okay, nothing special but not bad either.",neutral
+257,fried chicken,5,166,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+258,sushi,2,196,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+259,pizza,1,113,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+260,fried chicken,5,169,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+261,soup,2,38,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+262,sandwich,4,64,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+263,steak,3,56,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+264,curry,1,39,"The curry was okay, nothing special but not bad either.",neutral
+265,sandwich,4,83,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+266,fried chicken,1,100,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+267,soup,3,143,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+268,sandwich,2,180,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+269,fried chicken,5,8,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+270,curry,3,109,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+271,ice cream,4,163,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+272,steak,3,12,"The steak was okay, nothing special but not bad either.",neutral
+273,sushi,4,54,"The sushi was okay, nothing special but not bad either.",neutral
+274,soup,3,197,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+275,burger,2,6,"I don't Like the burger, it was disappointing and not worth the price.",negative
+276,ice cream,3,41,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+277,soup,1,74,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+278,fried chicken,1,166,"The fried chicken was okay, nothing special but not bad either.",neutral
+279,tacos,2,88,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+280,ice cream,1,168,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+281,pasta,2,139,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+282,soup,1,190,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+283,pasta,5,55,"The pasta was okay, nothing special but not bad either.",neutral
+284,sushi,4,124,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+285,tacos,3,199,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+286,curry,1,109,"I don't Like the curry, it was disappointing and not worth the price.",negative
+287,ice cream,2,79,"The ice cream was okay, nothing special but not bad either.",neutral
+288,tacos,2,179,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+289,pizza,3,141,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+290,steak,2,194,"I don't Like the steak, it was disappointing and not worth the price.",negative
+291,salad,1,182,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+292,sandwich,1,136,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+293,pasta,3,27,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+294,sushi,5,118,"The sushi was okay, nothing special but not bad either.",neutral
+295,pizza,5,98,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+296,tacos,3,180,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+297,salad,5,134,"The salad was okay, nothing special but not bad either.",neutral
+298,fried chicken,1,100,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+299,pasta,1,135,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+300,curry,5,101,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+301,ice cream,5,198,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+302,burger,2,187,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+303,curry,4,100,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+304,sandwich,5,54,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+305,fried chicken,4,24,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+306,sushi,5,120,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+307,soup,1,182,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+308,soup,3,63,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+309,steak,1,48,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+310,steak,4,66,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+311,tacos,2,74,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+312,soup,4,198,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+313,sandwich,3,85,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+314,salad,1,94,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+315,pizza,3,9,"The pizza was okay, nothing special but not bad either.",neutral
+316,pizza,3,167,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+317,fried chicken,3,59,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+318,curry,4,2,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+319,steak,5,144,"The steak was okay, nothing special but not bad either.",neutral
+320,steak,5,88,"The steak was okay, nothing special but not bad either.",neutral
+321,burger,1,164,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+322,fried chicken,3,194,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+323,burger,1,6,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+324,burger,5,20,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+325,curry,2,112,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+326,curry,1,27,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+327,fried chicken,5,134,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+328,fried chicken,1,137,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+329,pizza,1,136,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+330,tacos,2,1,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+331,sandwich,5,137,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+332,fried chicken,3,32,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+333,pasta,1,89,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+334,pasta,1,99,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+335,sushi,3,151,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+336,steak,2,161,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+337,sushi,2,156,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+338,sushi,5,151,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+339,curry,4,14,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+340,pasta,3,40,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+341,sushi,3,120,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+342,pasta,3,91,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+343,sandwich,1,7,"The sandwich was okay, nothing special but not bad either.",neutral
+344,sushi,2,68,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+345,tacos,2,50,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+346,sandwich,4,71,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+347,sushi,1,134,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+348,steak,3,66,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+349,soup,4,68,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+350,burger,5,149,"I don't Like the burger, it was disappointing and not worth the price.",negative
+351,ice cream,1,149,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+352,curry,1,148,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+353,sushi,3,156,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+354,steak,5,170,"I don't Like the steak, it was disappointing and not worth the price.",negative
+355,burger,2,123,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+356,steak,3,116,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+357,sushi,3,7,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+358,sandwich,5,11,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+359,soup,3,160,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+360,sushi,2,118,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+361,ice cream,2,171,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+362,steak,5,190,"The steak was okay, nothing special but not bad either.",neutral
+363,burger,4,184,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+364,pasta,5,161,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+365,fried chicken,4,157,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+366,sandwich,1,107,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+367,sandwich,4,139,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+368,pasta,2,165,"The pasta was okay, nothing special but not bad either.",neutral
+369,sandwich,3,37,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+370,steak,2,156,"The steak was okay, nothing special but not bad either.",neutral
+371,soup,4,22,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+372,salad,2,57,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+373,tacos,2,120,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+374,steak,2,6,"I don't Like the steak, it was disappointing and not worth the price.",negative
+375,tacos,2,158,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+376,sushi,4,109,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+377,sushi,4,101,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+378,sushi,1,180,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+379,soup,5,175,"The soup was okay, nothing special but not bad either.",neutral
+380,ice cream,1,31,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+381,salad,4,41,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+382,sandwich,1,57,"The sandwich was okay, nothing special but not bad either.",neutral
+383,burger,1,160,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+384,fried chicken,1,15,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+385,ice cream,5,143,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+386,pasta,1,62,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+387,pasta,2,157,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+388,curry,3,23,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+389,curry,2,76,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+390,sandwich,1,172,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+391,curry,2,21,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+392,sandwich,4,194,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+393,sushi,3,85,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+394,curry,1,33,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+395,tacos,5,59,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+396,salad,4,75,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+397,burger,5,36,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+398,tacos,5,92,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+399,burger,1,121,"I don't Like the burger, it was disappointing and not worth the price.",negative
+400,soup,4,18,"I don't Like the soup, it was disappointing and not worth the price.",negative
+401,sandwich,5,117,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+402,burger,1,38,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+403,fried chicken,4,96,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+404,soup,2,167,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+405,tacos,4,163,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+406,sushi,1,114,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+407,pasta,3,34,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+408,ice cream,4,176,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+409,burger,2,97,"I don't Like the burger, it was disappointing and not worth the price.",negative
+410,burger,4,102,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+411,sushi,5,68,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+412,burger,3,51,"I don't Like the burger, it was disappointing and not worth the price.",negative
+413,pasta,1,193,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+414,steak,4,93,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+415,steak,2,175,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+416,sushi,3,94,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+417,ice cream,4,86,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+418,sushi,4,134,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+419,sandwich,5,105,"The sandwich was okay, nothing special but not bad either.",neutral
+420,burger,4,135,"I don't Like the burger, it was disappointing and not worth the price.",negative
+421,curry,1,112,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+422,pasta,1,182,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+423,salad,4,141,"The salad was okay, nothing special but not bad either.",neutral
+424,ice cream,2,193,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+425,steak,5,173,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+426,burger,4,132,"I don't Like the burger, it was disappointing and not worth the price.",negative
+427,curry,5,65,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+428,sushi,1,116,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+429,pasta,1,105,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+430,tacos,5,70,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+431,soup,3,70,"I don't Like the soup, it was disappointing and not worth the price.",negative
+432,soup,4,149,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+433,fried chicken,4,188,"The fried chicken was okay, nothing special but not bad either.",neutral
+434,sandwich,2,138,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+435,burger,1,69,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+436,burger,1,98,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+437,burger,1,113,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+438,pasta,1,183,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+439,pizza,3,31,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+440,soup,2,170,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+441,salad,3,144,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+442,tacos,5,176,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+443,curry,5,103,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+444,pizza,5,98,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+445,ice cream,1,119,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+446,tacos,1,138,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+447,fried chicken,3,150,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+448,sushi,1,7,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+449,fried chicken,2,77,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+450,pasta,2,34,"The pasta was okay, nothing special but not bad either.",neutral
+451,pasta,4,115,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+452,pasta,1,10,"The pasta was okay, nothing special but not bad either.",neutral
+453,salad,5,45,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+454,tacos,2,118,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+455,burger,2,93,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+456,soup,5,75,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+457,pasta,3,100,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+458,pasta,1,189,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+459,sushi,5,176,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+460,salad,5,35,"The salad was okay, nothing special but not bad either.",neutral
+461,sushi,4,158,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+462,pasta,2,32,"The pasta was okay, nothing special but not bad either.",neutral
+463,sushi,3,68,"The sushi was okay, nothing special but not bad either.",neutral
+464,curry,2,152,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+465,tacos,5,123,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+466,soup,2,167,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+467,fried chicken,4,46,"The fried chicken was okay, nothing special but not bad either.",neutral
+468,salad,3,131,"The salad was okay, nothing special but not bad either.",neutral
+469,pizza,2,5,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+470,burger,4,11,"I don't Like the burger, it was disappointing and not worth the price.",negative
+471,pizza,4,162,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+472,fried chicken,4,69,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+473,soup,4,78,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+474,fried chicken,4,65,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+475,burger,2,90,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+476,sushi,2,136,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+477,curry,3,102,"I don't Like the curry, it was disappointing and not worth the price.",negative
+478,sandwich,1,41,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+479,curry,1,57,"The curry was okay, nothing special but not bad either.",neutral
+480,burger,2,197,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+481,tacos,4,167,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+482,curry,4,123,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+483,sandwich,2,134,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+484,fried chicken,5,75,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+485,pizza,5,175,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+486,salad,2,185,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+487,burger,2,132,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+488,sandwich,2,173,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+489,pizza,2,35,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+490,sandwich,2,8,"The sandwich was okay, nothing special but not bad either.",neutral
+491,steak,4,43,"I don't Like the steak, it was disappointing and not worth the price.",negative
+492,pizza,3,173,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+493,fried chicken,3,191,"The fried chicken was okay, nothing special but not bad either.",neutral
+494,soup,5,44,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+495,ice cream,4,135,"The ice cream was okay, nothing special but not bad either.",neutral
+496,curry,3,35,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+497,tacos,1,117,"The tacos was okay, nothing special but not bad either.",neutral
+498,pizza,4,79,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+499,ice cream,4,26,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+500,salad,3,67,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+501,salad,2,159,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+502,ice cream,1,28,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+503,curry,1,31,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+504,pizza,2,99,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+505,burger,2,69,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+506,fried chicken,2,34,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+507,steak,2,71,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+508,steak,2,199,"The steak was okay, nothing special but not bad either.",neutral
+509,fried chicken,1,138,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+510,tacos,3,84,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+511,burger,2,78,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+512,salad,4,62,"The salad was okay, nothing special but not bad either.",neutral
+513,soup,5,82,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+514,curry,1,6,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+515,burger,3,91,"The burger was okay, nothing special but not bad either.",neutral
+516,pizza,2,117,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+517,burger,3,110,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+518,pizza,5,71,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+519,curry,3,156,"I don't Like the curry, it was disappointing and not worth the price.",negative
+520,curry,1,107,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+521,burger,3,45,"I don't Like the burger, it was disappointing and not worth the price.",negative
+522,soup,4,22,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+523,salad,4,179,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+524,sandwich,1,88,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+525,pasta,2,65,"The pasta was okay, nothing special but not bad either.",neutral
+526,soup,2,150,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+527,curry,5,163,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+528,tacos,1,39,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+529,fried chicken,5,180,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+530,soup,4,182,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+531,pasta,1,112,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+532,soup,1,194,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+533,ice cream,3,113,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+534,ice cream,4,9,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+535,ice cream,3,79,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+536,soup,4,66,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+537,soup,1,56,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+538,tacos,2,150,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+539,burger,5,106,"I don't Like the burger, it was disappointing and not worth the price.",negative
+540,curry,5,91,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+541,steak,3,119,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+542,pasta,1,88,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+543,pasta,5,139,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+544,soup,5,125,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+545,ice cream,2,178,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+546,salad,1,110,"I don't Like the salad, it was disappointing and not worth the price.",negative
+547,tacos,5,100,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+548,sandwich,4,130,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+549,sandwich,5,61,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+550,steak,1,126,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+551,pasta,2,184,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+552,sandwich,2,66,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+553,pizza,4,198,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+554,steak,3,38,"I don't Like the steak, it was disappointing and not worth the price.",negative
+555,sandwich,4,95,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+556,salad,3,12,"The salad was okay, nothing special but not bad either.",neutral
+557,burger,5,73,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+558,curry,1,176,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+559,fried chicken,5,174,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+560,curry,3,121,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+561,ice cream,2,107,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+562,ice cream,4,114,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+563,curry,5,7,"The curry was okay, nothing special but not bad either.",neutral
+564,sandwich,3,2,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+565,curry,2,82,"I don't Like the curry, it was disappointing and not worth the price.",negative
+566,burger,4,48,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+567,soup,5,5,"I don't Like the soup, it was disappointing and not worth the price.",negative
+568,tacos,1,111,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+569,fried chicken,1,44,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+570,tacos,1,44,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+571,sushi,4,73,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+572,sandwich,5,101,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+573,salad,3,51,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+574,soup,3,27,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+575,burger,2,37,"The burger was okay, nothing special but not bad either.",neutral
+576,burger,4,150,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+577,sandwich,1,86,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+578,burger,3,51,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+579,pasta,5,185,"The pasta was okay, nothing special but not bad either.",neutral
+580,pasta,1,13,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+581,steak,1,143,"I don't Like the steak, it was disappointing and not worth the price.",negative
+582,steak,3,90,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+583,fried chicken,4,157,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+584,pizza,3,139,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+585,curry,5,92,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+586,tacos,5,185,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+587,pizza,2,180,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+588,pasta,2,72,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+589,fried chicken,3,0,"The fried chicken was okay, nothing special but not bad either.",neutral
+590,ice cream,5,177,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+591,pasta,4,134,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+592,fried chicken,2,186,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+593,pizza,4,163,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+594,sushi,1,42,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+595,tacos,2,67,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+596,steak,3,145,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+597,ice cream,3,162,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+598,pasta,4,98,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+599,pizza,5,136,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+600,sandwich,4,60,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+601,sandwich,3,112,"The sandwich was okay, nothing special but not bad either.",neutral
+602,salad,5,190,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+603,sushi,2,54,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+604,salad,3,9,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+605,ice cream,3,152,"The ice cream was okay, nothing special but not bad either.",neutral
+606,burger,3,112,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+607,steak,2,77,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+608,pasta,4,14,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+609,sushi,5,43,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+610,pasta,4,189,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+611,sandwich,3,13,"The sandwich was okay, nothing special but not bad either.",neutral
+612,pizza,5,189,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+613,pizza,2,3,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+614,tacos,3,168,"The tacos was okay, nothing special but not bad either.",neutral
+615,fried chicken,2,161,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+616,pasta,4,171,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+617,ice cream,4,0,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+618,pasta,4,172,"The pasta was okay, nothing special but not bad either.",neutral
+619,salad,3,30,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+620,sandwich,3,28,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+621,pizza,3,32,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+622,sushi,4,168,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+623,burger,5,195,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+624,sandwich,4,142,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+625,fried chicken,3,159,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+626,soup,2,95,"The soup was okay, nothing special but not bad either.",neutral
+627,ice cream,2,148,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+628,ice cream,2,131,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+629,curry,3,133,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+630,soup,5,161,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+631,steak,5,68,"I don't Like the steak, it was disappointing and not worth the price.",negative
+632,salad,1,194,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+633,tacos,3,55,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+634,tacos,5,182,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+635,sandwich,2,26,"The sandwich was okay, nothing special but not bad either.",neutral
+636,pasta,3,51,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+637,salad,3,170,"I don't Like the salad, it was disappointing and not worth the price.",negative
+638,ice cream,4,133,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+639,curry,2,98,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+640,tacos,5,6,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+641,sushi,4,79,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+642,tacos,4,166,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+643,ice cream,3,116,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+644,sandwich,2,63,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+645,salad,2,198,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+646,steak,2,75,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+647,tacos,4,138,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+648,fried chicken,3,148,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+649,pasta,1,19,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+650,pasta,3,118,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+651,salad,5,96,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+652,ice cream,1,157,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+653,sandwich,1,13,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+654,soup,5,32,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+655,fried chicken,4,21,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+656,curry,2,154,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+657,soup,5,117,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+658,ice cream,5,38,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+659,sushi,4,125,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+660,burger,2,196,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+661,soup,1,104,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+662,ice cream,2,81,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+663,steak,1,129,"I don't Like the steak, it was disappointing and not worth the price.",negative
+664,pasta,3,105,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+665,salad,3,169,"I don't Like the salad, it was disappointing and not worth the price.",negative
+666,sandwich,3,62,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+667,ice cream,3,142,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+668,soup,3,108,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+669,tacos,3,27,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+670,salad,2,61,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+671,sandwich,5,78,"The sandwich was okay, nothing special but not bad either.",neutral
+672,sushi,5,91,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+673,curry,4,20,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+674,fried chicken,1,76,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+675,curry,5,189,"I don't Like the curry, it was disappointing and not worth the price.",negative
+676,sushi,5,51,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+677,pizza,5,119,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+678,soup,4,11,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+679,sushi,3,133,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+680,salad,2,112,"I don't Like the salad, it was disappointing and not worth the price.",negative
+681,sandwich,5,88,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+682,tacos,3,80,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+683,steak,2,110,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+684,pasta,3,77,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+685,tacos,2,42,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+686,ice cream,5,120,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+687,sandwich,1,123,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+688,steak,3,126,"I don't Like the steak, it was disappointing and not worth the price.",negative
+689,ice cream,4,7,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+690,pasta,2,65,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+691,sandwich,2,192,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+692,soup,2,85,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+693,salad,2,147,"I don't Like the salad, it was disappointing and not worth the price.",negative
+694,steak,2,185,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+695,fried chicken,4,127,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+696,curry,3,96,"I don't Like the curry, it was disappointing and not worth the price.",negative
+697,tacos,1,195,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+698,steak,2,22,"I don't Like the steak, it was disappointing and not worth the price.",negative
+699,fried chicken,3,107,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+700,sandwich,5,138,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+701,pasta,3,128,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+702,soup,5,12,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+703,burger,1,94,"I don't Like the burger, it was disappointing and not worth the price.",negative
+704,soup,3,77,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+705,tacos,4,38,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+706,curry,1,28,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+707,pizza,3,195,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+708,soup,4,10,"I don't Like the soup, it was disappointing and not worth the price.",negative
+709,sandwich,1,167,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+710,tacos,3,13,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+711,salad,1,14,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+712,ice cream,5,105,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+713,salad,2,154,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+714,burger,3,62,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+715,burger,3,0,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+716,pasta,2,92,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+717,salad,1,149,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+718,burger,3,193,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+719,salad,3,196,"I don't Like the salad, it was disappointing and not worth the price.",negative
+720,sushi,5,120,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+721,soup,4,179,"The soup was okay, nothing special but not bad either.",neutral
+722,tacos,4,48,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+723,sandwich,1,51,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+724,burger,5,165,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+725,burger,3,93,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+726,salad,3,12,"I don't Like the salad, it was disappointing and not worth the price.",negative
+727,sushi,4,54,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+728,soup,4,160,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+729,pasta,5,65,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+730,sushi,4,56,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+731,steak,4,39,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+732,steak,2,51,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+733,burger,4,80,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+734,burger,4,196,"I don't Like the burger, it was disappointing and not worth the price.",negative
+735,sandwich,1,149,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+736,fried chicken,5,51,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+737,burger,5,18,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+738,steak,4,30,"I don't Like the steak, it was disappointing and not worth the price.",negative
+739,tacos,1,73,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+740,ice cream,3,106,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+741,fried chicken,3,158,"The fried chicken was okay, nothing special but not bad either.",neutral
+742,salad,4,92,"The salad was okay, nothing special but not bad either.",neutral
+743,sushi,1,195,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+744,curry,2,2,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+745,salad,3,166,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+746,curry,3,122,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+747,tacos,3,22,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+748,tacos,2,128,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+749,pasta,2,124,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+750,soup,1,88,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+751,steak,5,148,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+752,fried chicken,2,45,"The fried chicken was okay, nothing special but not bad either.",neutral
+753,pasta,4,88,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+754,salad,4,146,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+755,pasta,2,29,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+756,tacos,5,122,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+757,burger,5,101,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+758,sushi,3,97,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+759,pizza,5,41,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+760,steak,5,111,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+761,fried chicken,1,148,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+762,soup,2,197,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+763,curry,2,86,"I don't Like the curry, it was disappointing and not worth the price.",negative
+764,sandwich,3,59,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+765,sandwich,2,191,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+766,pizza,2,155,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+767,ice cream,4,161,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+768,salad,4,13,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+769,steak,5,192,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+770,curry,3,26,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+771,pasta,3,64,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+772,steak,5,7,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+773,pasta,3,20,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+774,steak,5,138,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+775,salad,4,163,"I don't Like the salad, it was disappointing and not worth the price.",negative
+776,pizza,5,24,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+777,ice cream,4,130,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+778,salad,3,166,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+779,sushi,2,137,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+780,fried chicken,1,179,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+781,fried chicken,3,61,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+782,pasta,4,14,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+783,sushi,1,86,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+784,steak,4,180,"I don't Like the steak, it was disappointing and not worth the price.",negative
+785,salad,1,4,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+786,burger,4,85,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+787,ice cream,5,131,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+788,burger,1,169,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+789,sushi,5,58,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+790,steak,2,75,"The steak was okay, nothing special but not bad either.",neutral
+791,curry,4,60,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+792,tacos,2,144,"The tacos was okay, nothing special but not bad either.",neutral
+793,salad,5,196,"I don't Like the salad, it was disappointing and not worth the price.",negative
+794,steak,5,57,"I don't Like the steak, it was disappointing and not worth the price.",negative
+795,tacos,2,61,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+796,ice cream,4,144,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+797,ice cream,4,173,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+798,burger,3,71,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+799,sandwich,4,116,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+800,burger,5,18,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+801,ice cream,2,75,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+802,salad,5,21,"I don't Like the salad, it was disappointing and not worth the price.",negative
+803,steak,2,82,"The steak was okay, nothing special but not bad either.",neutral
+804,steak,3,182,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+805,ice cream,3,36,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+806,sandwich,3,65,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+807,fried chicken,3,110,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+808,sushi,5,181,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+809,curry,2,6,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+810,burger,3,105,"I don't Like the burger, it was disappointing and not worth the price.",negative
+811,soup,1,88,"The soup was okay, nothing special but not bad either.",neutral
+812,sushi,4,186,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+813,fried chicken,1,26,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+814,pasta,3,166,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+815,sandwich,4,48,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+816,tacos,4,187,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+817,sandwich,2,44,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+818,ice cream,3,151,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+819,sushi,2,189,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+820,burger,1,106,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+821,soup,2,114,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+822,burger,5,96,"I don't Like the burger, it was disappointing and not worth the price.",negative
+823,burger,1,69,"I don't Like the burger, it was disappointing and not worth the price.",negative
+824,ice cream,2,44,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+825,ice cream,5,39,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+826,fried chicken,1,119,"The fried chicken was okay, nothing special but not bad either.",neutral
+827,soup,5,146,"The soup was okay, nothing special but not bad either.",neutral
+828,salad,1,64,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+829,ice cream,3,195,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+830,soup,1,87,"I don't Like the soup, it was disappointing and not worth the price.",negative
+831,curry,2,197,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+832,burger,5,158,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+833,burger,5,30,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+834,salad,4,144,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+835,ice cream,5,130,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+836,sushi,3,64,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+837,fried chicken,3,160,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+838,steak,4,193,"I don't Like the steak, it was disappointing and not worth the price.",negative
+839,ice cream,2,31,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+840,curry,2,132,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+841,salad,5,193,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+842,sushi,4,175,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+843,burger,5,90,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+844,sandwich,5,111,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+845,tacos,1,21,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+846,fried chicken,3,135,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+847,pasta,5,25,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+848,ice cream,1,81,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+849,soup,4,102,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+850,pizza,2,116,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+851,ice cream,4,4,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+852,curry,1,164,"The curry was okay, nothing special but not bad either.",neutral
+853,steak,2,2,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+854,burger,1,198,"I don't Like the burger, it was disappointing and not worth the price.",negative
+855,soup,4,194,"The soup was okay, nothing special but not bad either.",neutral
+856,sushi,3,89,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+857,fried chicken,1,188,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+858,pizza,5,21,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+859,tacos,3,132,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+860,ice cream,4,113,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+861,pasta,4,74,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+862,burger,4,21,"I don't Like the burger, it was disappointing and not worth the price.",negative
+863,burger,1,65,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+864,steak,1,32,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+865,tacos,4,177,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+866,sandwich,2,94,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+867,sushi,3,97,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+868,burger,1,117,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+869,curry,5,138,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+870,tacos,2,109,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+871,salad,4,80,"I don't Like the salad, it was disappointing and not worth the price.",negative
+872,sushi,4,9,"The sushi was okay, nothing special but not bad either.",neutral
+873,sandwich,5,68,"The sandwich was okay, nothing special but not bad either.",neutral
+874,sandwich,5,50,"The sandwich was okay, nothing special but not bad either.",neutral
+875,steak,3,173,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+876,pasta,1,5,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+877,fried chicken,4,99,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+878,sandwich,1,72,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+879,salad,3,11,"The salad was okay, nothing special but not bad either.",neutral
+880,salad,2,177,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+881,soup,1,15,"I don't Like the soup, it was disappointing and not worth the price.",negative
+882,pasta,2,141,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+883,ice cream,4,190,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+884,ice cream,2,188,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+885,steak,5,133,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+886,salad,3,142,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+887,ice cream,5,72,"The ice cream was okay, nothing special but not bad either.",neutral
+888,tacos,1,196,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+889,pasta,2,85,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+890,steak,3,114,"I don't Like the steak, it was disappointing and not worth the price.",negative
+891,soup,5,198,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+892,tacos,4,192,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+893,pasta,5,93,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+894,soup,1,112,"The soup was okay, nothing special but not bad either.",neutral
+895,pasta,1,181,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+896,salad,5,135,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+897,pasta,1,165,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+898,sushi,1,101,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+899,fried chicken,3,142,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+900,tacos,1,123,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+901,steak,4,168,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+902,pasta,1,147,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+903,sandwich,3,66,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+904,pasta,2,73,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+905,fried chicken,2,177,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+906,sandwich,5,81,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+907,sushi,3,59,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+908,tacos,2,192,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+909,sandwich,4,74,"The sandwich was okay, nothing special but not bad either.",neutral
+910,sushi,1,164,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+911,ice cream,1,3,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+912,soup,4,155,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+913,salad,1,110,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+914,fried chicken,5,95,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+915,salad,5,27,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+916,pizza,1,42,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+917,pasta,5,36,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+918,tacos,4,83,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+919,burger,3,106,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+920,salad,4,107,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+921,fried chicken,5,168,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+922,salad,3,118,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+923,fried chicken,5,42,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+924,steak,3,111,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+925,sandwich,4,53,"The sandwich was okay, nothing special but not bad either.",neutral
+926,sushi,3,33,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+927,curry,4,14,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+928,tacos,3,12,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+929,sandwich,4,83,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+930,steak,5,97,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+931,sushi,3,173,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+932,salad,3,85,"The salad was okay, nothing special but not bad either.",neutral
+933,steak,4,5,"I don't Like the steak, it was disappointing and not worth the price.",negative
+934,steak,2,81,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+935,tacos,2,51,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+936,tacos,4,93,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+937,pasta,1,35,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+938,fried chicken,1,138,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+939,pasta,2,25,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+940,sandwich,4,68,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+941,salad,3,110,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+942,steak,4,185,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+943,pizza,4,115,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+944,fried chicken,4,88,"The fried chicken was okay, nothing special but not bad either.",neutral
+945,ice cream,3,72,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+946,tacos,4,38,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+947,sandwich,3,141,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+948,steak,3,178,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+949,tacos,3,64,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+950,sushi,4,54,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+951,sushi,1,145,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+952,sandwich,5,94,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+953,sandwich,2,92,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+954,ice cream,3,48,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+955,sandwich,3,15,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+956,sushi,2,170,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+957,sushi,5,37,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+958,burger,1,75,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+959,ice cream,2,184,"The ice cream was okay, nothing special but not bad either.",neutral
+960,fried chicken,2,156,"The fried chicken was okay, nothing special but not bad either.",neutral
+961,tacos,5,148,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+962,tacos,4,103,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+963,pasta,4,10,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+964,steak,4,128,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+965,steak,2,31,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+966,sandwich,4,189,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+967,tacos,1,118,"Enjoy the tacos a lot, it was delicious and satisfying!",positive
+968,soup,4,11,"The soup was okay, nothing special but not bad either.",neutral
+969,fried chicken,5,126,"I don't Like the fried chicken, it was disappointing and not worth the price.",negative
+970,sandwich,5,150,"I don't Like the sandwich, it was disappointing and not worth the price.",negative
+971,pizza,3,185,"I don't Like the pizza, it was disappointing and not worth the price.",negative
+972,pasta,2,169,"I don't Like the pasta, it was disappointing and not worth the price.",negative
+973,pizza,2,91,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+974,sandwich,2,84,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+975,steak,4,74,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+976,sushi,4,128,"Enjoy the sushi a lot, it was delicious and satisfying!",positive
+977,tacos,2,121,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+978,pizza,4,143,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+979,burger,5,65,"I don't Like the burger, it was disappointing and not worth the price.",negative
+980,steak,5,113,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+981,pizza,4,132,"The pizza was okay, nothing special but not bad either.",neutral
+982,ice cream,5,131,"I don't Like the ice cream, it was disappointing and not worth the price.",negative
+983,pizza,5,175,"Enjoy the pizza a lot, it was delicious and satisfying!",positive
+984,tacos,1,59,"I don't Like the tacos, it was disappointing and not worth the price.",negative
+985,burger,3,116,"Enjoy the burger a lot, it was delicious and satisfying!",positive
+986,soup,1,101,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+987,curry,4,139,"Enjoy the curry a lot, it was delicious and satisfying!",positive
+988,pasta,1,79,"Enjoy the pasta a lot, it was delicious and satisfying!",positive
+989,soup,1,177,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+990,sushi,3,135,"I don't Like the sushi, it was disappointing and not worth the price.",negative
+991,salad,4,159,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+992,steak,4,175,"Enjoy the steak a lot, it was delicious and satisfying!",positive
+993,sandwich,2,3,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+994,salad,5,122,"Enjoy the salad a lot, it was delicious and satisfying!",positive
+995,pasta,5,166,"The pasta was okay, nothing special but not bad either.",neutral
+996,fried chicken,3,46,"Enjoy the fried chicken a lot, it was delicious and satisfying!",positive
+997,sandwich,5,192,"Enjoy the sandwich a lot, it was delicious and satisfying!",positive
+998,soup,5,96,"Enjoy the soup a lot, it was delicious and satisfying!",positive
+999,ice cream,5,143,"Enjoy the ice cream a lot, it was delicious and satisfying!",positive
+1000,salad,3,62,"Enjoy the salad a lot, it was delicious and satisfying!",positive
