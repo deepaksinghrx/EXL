@@ -1,0 +1,31 @@
+Age,Gender,BMI,Physical_Activity_Level,Diet_Recommendation
+22,Male,18.5,High,High Protein
+25,Female,20.2,Medium,Balanced
+30,Male,24.5,Medium,Balanced
+35,Female,28.4,Low,Low Carb
+40,Male,31.2,Low,Low Fat
+45,Female,22.8,High,Balanced
+50,Male,29.7,Low,Low Carb
+55,Female,26.5,Medium,Balanced
+60,Male,33.1,Low,Low Fat
+28,Female,19.8,High,High Protein
+33,Male,23.4,Medium,Balanced
+38,Female,27.5,Low,Low Carb
+43,Male,30.4,Low,Low Fat
+48,Female,25.1,Medium,Balanced
+53,Male,32.2,Low,Low Fat
+58,Female,21.9,High,Balanced
+26,Male,18.9,High,High Protein
+31,Female,24.2,Medium,Balanced
+36,Male,27.8,Low,Low Carb
+41,Female,31.5,Low,Low Fat
+46,Male,26.9,Medium,Balanced
+51,Female,23.7,Medium,Balanced
+56,Male,29.9,Low,Low Carb
+61,Female,34.2,Low,Low Fat
+29,Male,20.5,High,High Protein
+34,Female,25.3,Medium,Balanced
+39,Male,28.7,Low,Low Carb
+44,Female,30.9,Low,Low Fat
+49,Male,22.3,High,Balanced
+54,Female,27.1,Medium,Balanced
