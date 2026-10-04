@@ -1,0 +1,1913 @@
+﻿
+MinimizeMaximizeClose
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Work
+Deepak
+Copilot Chat (Basic)
+
+
+
+GPT 5.6 Sol Think
+
+
+
+You said:
+as of now i send u many sessions  from starting to ending now i like u create a list of all the topics and sub topics, along with the questions from every topic,
+Copilot said:
+Yes. Based on all the sessions and questions you've shared so far (Backend, Python, FastAPI, OAuth, Databases, Kafka, System Design, Performance, VBA, HCI, AI/ML, etc.), here is a master revision checklist with topics, subtopics, and interview/training questions.
+
+1. Backend Fundamentals
+Topics
+Client-Server Architecture
+What is a client?
+What is a server?
+How do clients communicate with servers?
+Browser → Server → Database flow
+HTTP Basics
+HTTP Request
+HTTP Response
+URL
+Headers
+Body
+Query Parameters
+REST APIs
+GET
+POST
+PUT
+PATCH
+DELETE
+Routing
+Route matching
+Path parameters
+Query parameters
+Status Codes
+200
+201
+400
+401
+403
+404
+500
+Questions
+How does a web request reach the server?
+Difference between GET and POST?
+Difference between PUT and PATCH?
+What is REST?
+What is an endpoint?
+What is idempotency?
+Why should GET be idempotent?
+2. FastAPI
+Topics
+FastAPI Introduction
+ASGI
+Uvicorn
+Routing
+Path Operations
+Request Validation
+Pydantic Models
+Request Body
+Response Model
+Dependency Injection
+Depends()
+Middleware
+Logging Middleware
+Authentication Middleware
+Background Tasks
+Exception Handling
+Questions
+What is FastAPI?
+Why is FastAPI faster than Flask?
+What is ASGI?
+What is Uvicorn?
+What is Pydantic?
+How do validations happen?
+What is dependency injection?
+How do middleware work?
+How do you handle errors globally?
+3. Python Fundamentals
+Topics
+Core Python
+Variables
+Data Types
+Functions
+You have stopped this conversation.
+
+
+
+
+
+You said:
+as of now i send u many sessions  from starting to ending now i like u create a list of all the topics and sub topics, along with the questions from every topic,
+Copilot said:
+
+Reasoning completed in 2 steps
+Master Topic and Question List From All Sessions
+Deepak, I reviewed the sessions, transcripts, follow-up questions, and preparation discussions you shared from the beginning up to the latest session. Below is a consolidated syllabus arranged as main topic → subtopics → questions to prepare.
+
+I have separated the Python backend training syllabus from the additional topics you studied, such as VBA, AI, and HCI.
+
+Part A: Python Backend Development Sessions
+1. Backend and Client-Server Fundamentals
+Subtopics
+Client and server
+Frontend and backend
+Request-response model
+Stateless communication
+URL and API endpoints
+Browser, API server, and database communication
+How a request reaches a server
+What happens inside the server
+Application runtime
+Application dependencies
+Environment and configuration
+Ports and processes
+Development, testing, and production environments
+Questions
+What is a client?
+What is a server?
+What is a backend service?
+What is the difference between frontend and backend?
+How does a browser communicate with a server?
+What happens when a user enters a URL in the browser?
+How does an HTTP request reach the application?
+What happens inside the server after receiving a request?
+What is an API?
+What is an API endpoint?
+What is stateless communication?
+What is an application runtime?
+What are runtime dependencies?
+What is the difference between environment and configuration?
+What is the purpose of a port?
+Can two applications run on the same port?
+What is the difference between development, testing, staging, and production?
+How does an application run in a production environment?
+This was one of the earliest session themes, especially the movement of a request from the user through the backend application and its internal processing layers.
+cloud
++1
+
+2. HTTP Request and Response Lifecycle
+Subtopics
+HTTP and HTTPS
+HTTP methods
+Request URL
+Request headers
+Request body
+Query parameters
+Path parameters
+Cookies
+Status codes
+Content types
+HTTP lifecycle
+Routing
+Request processing chain
+Browser Developer Tools
+HTTP methods
+GET
+POST
+PUT
+PATCH
+DELETE
+Important status codes
+200 OK
+201 Created
+202 Accepted
+204 No Content
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not Found
+409 Conflict
+422 Unprocessable Entity
+429 Too Many Requests
+500 Internal Server Error
+503 Service Unavailable
+Questions
+What is HTTP?
+What is the difference between HTTP and HTTPS?
+What happens during an HTTP request?
+What is the difference between request and response?
+What is the difference between headers and body?
+What information is stored in HTTP headers?
+What is a request payload?
+What is the difference between path parameters and query parameters?
+What is routing?
+How does a router identify the correct endpoint?
+What is the difference between GET and POST?
+What is the difference between PUT and PATCH?
+When should DELETE return 204?
+What is the difference between 401 and 403?
+What is the difference between 400 and 422?
+When should an API return 500?
+What can be examined in the browser Network tab?
+How do you trace a request using browser Developer Tools?
+The training roadmap explicitly included HTTP lifecycle, REST methods, routing, headers, body, status codes, validation, and practical use of browser Developer Tools.
+cloud
+
+3. REST API Design
+Subtopics
+REST architecture
+Resource-oriented URLs
+CRUD operations
+HTTP methods
+Idempotency
+Request contracts
+Response contracts
+API versioning
+Pagination
+Filtering
+Sorting
+Error responses
+API documentation
+Questions
+What is REST?
+What is a REST API?
+What is a resource in REST?
+How should REST endpoints be named?
+What are CRUD operations?
+How are CRUD operations associated with HTTP methods?
+What is idempotency?
+Which HTTP methods are idempotent?
+Why is GET expected to be idempotent?
+Is POST idempotent?
+How can POST be made idempotent?
+What is an idempotency key?
+What is API versioning?
+Why do APIs need pagination?
+What is the difference between offset and cursor pagination?
+How should an API return validation errors?
+What should a consistent API error response contain?
+What is the difference between synchronous and asynchronous API responses?
+4. FastAPI
+Subtopics
+What FastAPI is
+ASGI
+Uvicorn
+Starlette
+Pydantic
+Application creation
+Route decorators
+Path operations
+Path parameters
+Query parameters
+Request bodies
+Response models
+Automatic validation
+Swagger UI
+ReDoc
+Dependency injection
+Middleware
+Exception handling
+Background tasks
+Async endpoints
+Database integration
+Application structure
+Basic architecture
+Plain Text
+
+
+Client
+  ↓
+FastAPI Route
+  ↓
+Service Layer
+  ↓
+Repository/Data Layer
+  ↓
+Database
+Questions
+What is FastAPI?
+Why is FastAPI used?
+What is ASGI?
+What is Uvicorn?
+What is Starlette?
+What is Pydantic?
+How do you create a FastAPI application?
+How do you run FastAPI using Uvicorn?
+What does main:app mean?
+What does --reload do?
+How do you create a GET endpoint?
+How do you create a POST endpoint?
+How do path parameters work?
+How do query parameters work?
+How does FastAPI validate a request body?
+What is a response model?
+What is dependency injection?
+What is Depends()?
+How does middleware work?
+How do you implement global exception handling?
+How do you connect FastAPI to a database?
+How do you manage database sessions?
+What is the difference between def and async def endpoints?
+When should background tasks be used?
+How does FastAPI generate Swagger documentation?
+How should a production FastAPI application be structured?
+What is the difference between FastAPI, Flask, and Django?
+Why is FastAPI considered fast?
+FastAPI preparation expanded into routes, parameters, Pydantic validation, application layers, database integration, middleware, and async processing.
+cloud
++1
+
+5. Request and Response Validation
+Subtopics
+Input validation
+Output validation
+Required and optional fields
+Type validation
+Format validation
+Business validation
+Pydantic models
+Custom validators
+Error handling
+Validation error responses
+Sensitive-data filtering
+Questions
+Why is request validation required?
+What is response validation?
+What is the difference between schema validation and business validation?
+How does Pydantic perform type validation?
+What happens when invalid data is sent to FastAPI?
+How do you define required and optional fields?
+How do you validate email addresses?
+How do you validate minimum and maximum values?
+How do you create custom validators?
+Why should API responses also be validated?
+How do you prevent sensitive fields from appearing in responses?
+What is the correct status code for invalid input?
+Where should business validation be implemented?
+How should validation errors be logged?
+Request and response validation was identified as a completed and important training area, particularly in relation to authentication APIs and FastAPI.
+cloud
++1
+
+Part B: Python Programming
+6. Python Fundamentals
+Subtopics
+Variables
+Data types
+Operators
+Conditional statements
+Loops
+Functions
+Arguments
+Return values
+Lists, tuples, sets, and dictionaries
+String operations
+Exception handling
+File handling
+Modules and packages
+Imports
+Classes and objects
+Questions
+What is Python?
+Why is Python used in backend development?
+Is Python compiled or interpreted?
+What are mutable and immutable objects?
+What is the difference between list and tuple?
+What is the difference between set and dictionary?
+What are positional and keyword arguments?
+What are *args and **kwargs?
+What is a lambda function?
+What is exception handling?
+What is the purpose of try, except, else, and finally?
+What is the difference between a module and a package?
+What is the purpose of __init__.py?
+What does if __name__ == "__main__" mean?
+How does Python manage memory?
+7. Object-Oriented Programming
+Subtopics
+Classes
+Objects
+Attributes
+Methods
+Constructors
+Instance methods
+Class methods
+Static methods
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+Composition
+Abstract base classes
+Interfaces in Python
+Questions
+What is OOP?
+What is a class?
+What is an object?
+What is the difference between class and object?
+What is self?
+What is __init__?
+What is encapsulation?
+What is inheritance?
+What is polymorphism?
+What is abstraction?
+What is method overriding?
+What is the difference between inheritance and composition?
+What is an abstract class?
+What is the difference between instance, static, and class methods?
+When should OOP be used in backend applications?
+What is the difference between OOP and functional programming?
+Python basics and OOP were repeatedly referenced as foundational prerequisites in the sessions.
+cloud
++2
+
+8. Functional Programming
+Subtopics
+Pure functions
+Immutability
+First-class functions
+Higher-order functions
+Lambda functions
+map
+filter
+reduce
+Side effects
+Closures
+Decorators
+Questions
+What is functional programming?
+What is a pure function?
+What is a side effect?
+What is immutability?
+What is a higher-order function?
+What is a closure?
+What is a decorator?
+What is the difference between OOP and functional programming?
+When should functional programming be used?
+Can OOP and functional programming be used together?
+9. Python Environment and Package Management
+Subtopics
+Python interpreter
+Python versions
+Virtual environments
+venv
+pip
+uv
+PyPI
+requirements.txt
+pyproject.toml
+Dependency installation
+Dependency locking
+Version constraints
+Environment activation
+Reproducible builds
+Questions
+What is a virtual environment?
+Why is a virtual environment required?
+How do you create and activate a venv?
+What is pip?
+What is PyPI?
+How does pip install work?
+What is requirements.txt?
+What is pip freeze?
+What is uv?
+What is the difference between pip and uv?
+What is pyproject.toml?
+What is a lock file?
+Why should package versions be pinned?
+How can two projects use different versions of the same package?
+How do you manage multiple Python versions?
+These topics came from your Python deep-dive into venv, pip, uv, typing, Pydantic, iterators, generators, and concurrency.
+cloud
+
+10. Iterators, Generators, and Context Managers
+Subtopics
+Iterable
+Iterator
+iter()
+next()
+Generator functions
+yield
+Generator expressions
+Lazy evaluation
+Context managers
+with statement
+__enter__
+__exit__
+contextlib
+Questions
+What is an iterable?
+What is an iterator?
+What is the difference between iterable and iterator?
+What does iter() do?
+What does next() do?
+What is a generator?
+What is the difference between return and yield?
+Why are generators memory-efficient?
+What is lazy evaluation?
+What is a context manager?
+Why is the with statement used?
+How do __enter__ and __exit__ work?
+How can you create a custom context manager?
+Where are context managers used in backend applications?
+11. Sync, Async, Threading, and Multiprocessing
+Subtopics
+Synchronous execution
+Asynchronous execution
+Concurrency
+Parallelism
+Event loop
+Coroutines
+async
+await
+asyncio
+Threads
+Processes
+Global Interpreter Lock
+CPU-bound tasks
+I/O-bound tasks
+Questions
+What is synchronous execution?
+What is asynchronous execution?
+What is the difference between concurrency and parallelism?
+What is a coroutine?
+What do async and await mean?
+What is an event loop?
+What is asyncio?
+What happens while a coroutine is waiting?
+What is threading?
+What is multiprocessing?
+What is the GIL?
+Why is threading useful for I/O-bound operations?
+Why is multiprocessing useful for CPU-bound operations?
+What is the difference between threading, multiprocessing, and asyncio?
+When should each one be used?
+Can an asynchronous function contain blocking code?
+What happens if blocking code is used in an async endpoint?
+How does FastAPI use asynchronous execution?
+You specifically studied the comparison between threading, multiprocessing, and asyncio, including I/O-bound and CPU-bound workloads.
+cloud
+
+Part C: Application Architecture and Design
+12. Backend Application Layers
+Subtopics
+Presentation/API layer
+Controller or router layer
+Business/service layer
+Data/repository layer
+Configuration layer
+Infrastructure layer
+Domain models
+Database models
+Schemas
+Utilities
+Dependency injection
+Questions
+What is layered architecture?
+What is the API layer?
+What is the business layer?
+What is the data layer?
+What is the configuration layer?
+What belongs in the service layer?
+What belongs in the repository layer?
+Should SQL queries be written inside API routes?
+What is separation of concerns?
+What is dependency injection?
+Why should business logic be separated from database logic?
+What is the difference between a Pydantic model and an ORM model?
+What is the difference between a domain model and database model?
+How does a request move through different application layers?
+How does layered architecture improve testing?
+13. System Boundaries and Component Classification
+Subtopics
+Internal components
+External components
+Infrastructure components
+Application services
+Third-party providers
+Databases
+Message brokers
+SMTP providers
+Users and clients
+System ownership
+Example classification
+Internal application components
+
+Login API
+Authentication service
+Email service
+Order service
+Infrastructure components
+
+Database
+Kafka
+Cache
+Container platform
+External components
+
+User
+SMTP provider
+Payment gateway
+External identity provider
+Questions
+What is a system boundary?
+How do you identify internal components?
+How do you identify external dependencies?
+Is a database part of application logic or infrastructure?
+Is Kafka internal or external?
+Is an SMTP provider internal or external?
+Who owns each component?
+What happens when an external provider is unavailable?
+How should external integrations be abstracted?
+Why are boundaries important in architecture diagrams?
+Your architecture-classification question used a login API, authentication service, database, Kafka, email service, SMTP provider, and user to distinguish application, infrastructure, and external boundaries.
+cloud
+
+14. Design Patterns and Factory Pattern
+Subtopics
+Design patterns
+Factory Method
+Abstract Factory
+Factory mapping
+Strategy pattern
+Dependency inversion
+Loose coupling
+Interfaces
+Abstract classes
+Extensibility
+Open/Closed Principle
+Questions
+What is a design pattern?
+Why are design patterns used?
+What is the Factory Method pattern?
+What problem does Factory Method solve?
+What is factory mapping?
+How is a dictionary used for factory mapping?
+What is loose coupling?
+What is tight coupling?
+What is the Open/Closed Principle?
+How can a system support multiple authentication providers?
+How would you design Google, Microsoft, and Okta authentication implementations?
+What is an abstract identity-provider interface?
+What is the difference between Factory and Strategy patterns?
+When should the Factory pattern not be used?
+How does dependency injection relate to Factory patterns?
+Factory Method was highlighted in the sessions as a way to keep identity-provider and application code loosely coupled.
+cloud
++2
+
+Part D: Authentication and Security
+15. Authentication and Authorization
+Subtopics
+Authentication
+Authorization
+Username and password
+API keys
+Basic authentication
+Session-based authentication
+Token-based authentication
+Role-Based Access Control
+Claims
+Permissions
+Multi-Factor Authentication
+Questions
+What is authentication?
+What is authorization?
+What is the difference between authentication and authorization?
+What is an API key?
+What is Basic Authentication?
+What is session-based authentication?
+What is token-based authentication?
+What is RBAC?
+What is a role?
+What is a permission?
+What is a claim?
+What is MFA?
+Where should authentication logic be placed?
+How should passwords be stored?
+Why should plain-text passwords never be stored?
+What is password hashing?
+What is the difference between hashing and encryption?
+16. OAuth
+Subtopics
+OAuth definition
+Authorization delegation
+Problems before OAuth
+Password sharing
+Limited access
+Token-based permissions
+Resource owner
+Client application
+Authorization server
+Resource server
+Client ID
+Client secret
+Authorization code
+Access token
+Refresh token
+Redirect URI
+Scope
+Consent
+Grant types
+OAuth flows
+Authorization Code Flow
+Authorization Code Flow with PKCE
+Client Credentials Flow
+Device Authorization Flow
+Refresh Token Flow
+Questions
+What is OAuth?
+Why was OAuth created?
+What problem does OAuth solve?
+Is OAuth authentication or authorization?
+What is the Resource Owner?
+What is the Client Application?
+What is the Authorization Server?
+What is the Resource Server?
+What is a Client ID?
+What is a Client Secret?
+Where should a Client Secret be stored?
+What is an Authorization Code?
+Why is an Authorization Code short-lived?
+Why is the Access Token not directly returned in the browser URL?
+How is the Authorization Code exchanged for an Access Token?
+Does the client return the same Authorization Code to the provider?
+What does the provider validate during token exchange?
+What is a Redirect URI?
+What is a Scope?
+What is a Consent Screen?
+What is an Access Token?
+What is a Refresh Token?
+What happens when an Access Token expires?
+What is PKCE?
+When is Client Credentials Flow used?
+What questions should be asked before implementing OAuth?
+How should tokens be stored?
+How can OAuth access be revoked?
+What is the difference between OAuth 1.0 and OAuth 2.0?
+Why does OAuth 1.0 use request signatures?
+OAuth was one of your most detailed learning areas, including Authorization Code exchange, Client ID, Client Secret, Redirect URI, Access Token, Refresh Token, scope, and implementation requirements.
+cloud
++2
+
+17. OIDC, SSO, and Identity Providers
+Subtopics
+OpenID Connect
+Identity Provider
+Single Sign-On
+ID Token
+Access Token
+User identity
+OAuth and OIDC relationship
+Federated identity
+Enterprise SSO
+Questions
+What is OIDC?
+Is OAuth 2.0 the same as OIDC?
+What problem does OIDC solve?
+What is an ID Token?
+What is the difference between ID Token and Access Token?
+How is OIDC built on OAuth 2.0?
+What is SSO?
+Where does SSO occur in the OAuth/OIDC flow?
+Is SSO a protocol?
+What is an Identity Provider?
+What is a Service Provider?
+How does “Continue with Google” work?
+How does enterprise SSO work?
+What is federated identity?
+What is the relationship between OAuth, OIDC, JWT, and SSO?
+Can OAuth alone be used for login?
+Why does OIDC include the openid scope?
+18. JWT and Digital Signatures
+Subtopics
+JSON Web Token
+Header
+Payload
+Signature
+Claims
+Registered claims
+Token expiry
+Token verification
+Symmetric and asymmetric signatures
+Bearer tokens
+Token revocation
+Access Token and ID Token
+Questions
+What is JWT?
+What are the three parts of a JWT?
+What is stored in the header?
+What is stored in the payload?
+What are claims?
+What is the JWT signature?
+How does the signature prevent tampering?
+Is JWT encrypted?
+Can anyone decode a JWT?
+What is the difference between decoding and verifying?
+What does the exp claim mean?
+What does the sub claim mean?
+What does the aud claim mean?
+What does the iss claim mean?
+What is the difference between symmetric and asymmetric signing?
+What is a Bearer token?
+Can an Access Token be a JWT?
+Is an OIDC ID Token normally a JWT?
+How should JWT expiry be handled?
+How can JWTs be revoked before expiry?
+What is token rotation?
+Your questions connected OAuth 1.0 signatures, OAuth 2.0 Bearer tokens, OIDC ID Tokens, JWT structure, and signature verification.
+cloud
+
+Part E: Databases and SQL
+19. Database Fundamentals and Persistence
+Subtopics
+Database
+DBMS
+RDBMS
+Persistence
+Volatile and non-volatile storage
+SQL databases
+NoSQL databases
+In-memory databases
+Data warehouses
+Time-series databases
+Graph databases
+Questions
+What is a database?
+What is DBMS?
+What is RDBMS?
+Why must databases be persistent?
+What is the difference between RAM and disk storage?
+What happens to in-memory data after an application restart?
+What is the difference between SQL and NoSQL?
+When should a relational database be used?
+When should a document database be used?
+What is a key-value database?
+What is an in-memory database?
+What is a graph database?
+What is a time-series database?
+What is a data warehouse?
+How do databases recover after failures?
+20. Data Modelling
+Subtopics
+Entity
+Attribute
+Primary key
+Foreign key
+Unique key
+Composite key
+Relationships
+Constraints
+Conceptual model
+Logical model
+Physical model
+Entity Relationship Diagram
+Relationships
+One-to-one
+One-to-many
+Many-to-many
+Order-management entities
+Customer
+Product
+Order
+OrderItem
+Payment
+Questions
+What is data modelling?
+Why is data modelling required?
+What is an entity?
+What is an attribute?
+What is a primary key?
+What is a foreign key?
+What is a composite key?
+What is a unique constraint?
+What is a one-to-one relationship?
+What is a one-to-many relationship?
+What is a many-to-many relationship?
+How is a many-to-many relationship implemented?
+Why is OrderItem required?
+What is the relationship between Customer and Order?
+What is the relationship between Order and OrderItem?
+What is the relationship between Product and OrderItem?
+Is Order-to-Payment one-to-one or one-to-many?
+What is the difference between conceptual, logical, and physical models?
+What is an ER diagram?
+How should delete behavior be handled for related entities?
+Your order-system model covered Customer, Product, Order, OrderItem, and Payment, including one-to-many and many-to-many relationships.
+cloud
+
+21. Normalization
+Subtopics
+Data redundancy
+Insert anomaly
+Update anomaly
+Delete anomaly
+First Normal Form
+Second Normal Form
+Third Normal Form
+Boyce-Codd Normal Form
+Denormalization
+Questions
+What is normalization?
+Why is normalization used?
+What is data redundancy?
+What is an insert anomaly?
+What is an update anomaly?
+What is a delete anomaly?
+What is 1NF?
+What is 2NF?
+What is 3NF?
+What is a partial dependency?
+What is a transitive dependency?
+What is BCNF?
+What is denormalization?
+When should data be denormalized?
+How would you normalize an order-management database?
+22. SQL Fundamentals to Advanced
+Subtopics
+SQL command categories
+DDL: CREATE, ALTER, DROP, TRUNCATE
+DML: INSERT, UPDATE, DELETE
+DQL: SELECT
+TCL: COMMIT, ROLLBACK, SAVEPOINT
+DCL: GRANT, REVOKE
+Querying
+WHERE
+AND, OR, NOT
+IN
+BETWEEN
+LIKE
+ORDER BY
+DISTINCT
+LIMIT
+CASE
+Aggregation
+COUNT
+SUM
+AVG
+MIN
+MAX
+GROUP BY
+HAVING
+Advanced SQL
+Subqueries
+Correlated subqueries
+Common table expressions
+Recursive CTEs
+Window functions
+Stored procedures
+Views
+Triggers
+Query plans
+Locks
+Isolation levels
+Questions
+What is SQL?
+What are DDL, DML, DQL, TCL, and DCL?
+What are CRUD operations?
+What is the difference between DELETE, DROP, and TRUNCATE?
+What is the difference between WHERE and HAVING?
+What is GROUP BY?
+What is a subquery?
+What is a correlated subquery?
+What is a CTE?
+What is a recursive CTE?
+What are window functions?
+What is the difference between ROW_NUMBER, RANK, and DENSE_RANK?
+What is a view?
+What is a stored procedure?
+What is a trigger?
+How do you find duplicate records?
+How do you find the second-highest salary?
+How do you find customers who have not placed orders?
+How do you calculate running totals?
+How do you investigate a slow SQL query?
+23. SQL Joins
+Subtopics
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+FULL OUTER JOIN
+CROSS JOIN
+SELF JOIN
+Multiple joins
+Join conditions
+Join performance
+Questions
+What is a SQL join?
+What does INNER JOIN return?
+What does LEFT JOIN return?
+What does RIGHT JOIN return?
+What does FULL OUTER JOIN return?
+Does MySQL directly support FULL OUTER JOIN?
+How can FULL OUTER JOIN be simulated in MySQL?
+What is a CROSS JOIN?
+What is a SELF JOIN?
+How do you find customers without orders?
+What happens if the join condition is missing?
+How do indexes improve joins?
+What is the difference between a join and a subquery?
+How do duplicate rows arise during joins?
+24. Indexes
+Subtopics
+Full table scan
+B-tree index
+Primary index
+Unique index
+Single-column index
+Composite index
+Full-text index
+Index selectivity
+Leftmost-prefix rule
+Covering index
+Query execution plan
+Index overhead
+Questions
+What is an index?
+Why is an index used?
+What is a full-table scan?
+What is a B-tree index?
+What is a unique index?
+What is a composite index?
+What is the leftmost-prefix rule?
+What is a covering index?
+What is index selectivity?
+How do indexes improve filtering?
+How do indexes improve joins?
+Why can too many indexes be harmful?
+Why do indexes slow INSERT and UPDATE operations?
+When will a database ignore an index?
+How do you inspect a query execution plan?
+Which columns normally need indexes?
+25. Transactions and ACID
+Subtopics
+Transaction
+BEGIN
+COMMIT
+ROLLBACK
+SAVEPOINT
+Atomicity
+Consistency
+Isolation
+Durability
+Concurrency
+Dirty reads
+Non-repeatable reads
+Phantom reads
+Isolation levels
+Deadlocks
+Questions
+What is a database transaction?
+Why are transactions required?
+What is COMMIT?
+What is ROLLBACK?
+What is SAVEPOINT?
+What does ACID stand for?
+What is Atomicity?
+What is Consistency?
+What is Isolation?
+What is Durability?
+What is a dirty read?
+What is a non-repeatable read?
+What is a phantom read?
+What are the common transaction-isolation levels?
+What is a database lock?
+What is a deadlock?
+How can deadlocks be reduced?
+How would you implement a bank transfer transaction?
+Should an external API call be made inside a database transaction?
+What happens if the application crashes before COMMIT?
+Database persistence, types, data modelling, order relationships, normalization, joins, indexes, transactions, ACID, and the SQL learning roadmap formed one large continuous learning thread.
+cloud
+
+26. ORM, Database Connections, and Migrations
+Subtopics
+Object Relational Mapping
+Models and tables
+ORM queries
+Raw SQL
+Database engine
+Database sessions
+Connections
+Connection pool
+Transactions
+Lazy loading
+Eager loading
+N+1 query problem
+Schema migrations
+Alembic
+SQLAlchemy
+Questions
+What is ORM?
+Why is ORM used?
+How does ORM convert objects into SQL?
+What is the difference between ORM and raw SQL?
+What is a database engine?
+What is a database session?
+What is a database connection?
+What is connection pooling?
+Why is creating a new connection for every request inefficient?
+What is pool size?
+What happens when the connection pool is exhausted?
+What is lazy loading?
+What is eager loading?
+What is the N+1 query problem?
+What is a database migration?
+Why are migrations required?
+What is Alembic?
+How should database sessions be handled in FastAPI?
+When should raw SQL be preferred over ORM?
+How should ORM transactions be managed?
+Part F: Docker and Deployment
+27. Docker
+Subtopics
+Docker
+Containers
+Images
+Dockerfile
+Build context
+Layers
+Base images
+Ports
+Volumes
+Environment variables
+Networks
+Docker Compose
+Container logs
+Container lifecycle
+Questions
+What is Docker?
+Why is Docker used?
+What problem does Docker solve?
+What is a Docker image?
+What is a Docker container?
+What is the difference between an image and a container?
+What is a Dockerfile?
+What does FROM do?
+What does COPY do?
+What does RUN do?
+What is the difference between CMD and ENTRYPOINT?
+What is port mapping?
+What is a Docker volume?
+Why are volumes required for persistent data?
+What is a Docker network?
+What is Docker Compose?
+How do application and database containers communicate?
+How do you inspect container logs?
+How do you pass secrets into containers?
+Why should a database not store its data only inside the container filesystem?
+Docker was included in the completed syllabus and later connected to running local Kafka and backend services.
+cloud
++1
+
+28. Cloud Deployment and Cloud Run
+Subtopics
+Container deployment
+Managed services
+Stateless applications
+Environment variables
+Secrets
+Service URL
+Scaling
+Health checks
+Logging
+Database connectivity
+Continuous deployment
+Cold starts
+Questions
+What is a managed cloud service?
+What is Cloud Run?
+How is a FastAPI application deployed as a container?
+Why should cloud applications be stateless?
+Where should application configuration be stored?
+How should secrets be managed?
+How does automatic scaling work?
+What is a cold start?
+How does a deployed application connect to a database?
+How are logs collected in the cloud?
+How can deployment be automated from source control?
+What should a production Docker image contain?
+What is the difference between deploying a virtual machine and a container?
+What happens when multiple application instances start?
+Part G: System Design
+29. Synchronous and Asynchronous Processing
+Subtopics
+Synchronous request
+Asynchronous request
+Blocking operations
+Non-blocking operations
+Background jobs
+Queues
+Event-driven processing
+Delayed processing
+Retry handling
+Questions
+What is synchronous processing?
+What is asynchronous processing?
+When should a request be synchronous?
+When should a task be asynchronous?
+Should login be synchronous or asynchronous?
+Should sending a welcome email be synchronous or asynchronous?
+What happens if an email service is slow?
+How does a queue help asynchronous processing?
+What response should an API return for accepted background work?
+How does asynchronous processing improve user experience?
+What are the disadvantages of asynchronous processing?
+How is failure communicated back to the user?
+30. Database vs Queue
+Subtopics
+Database persistence
+Queue buffering
+Event storage
+Immediate updates
+Delayed processing
+Producer-consumer communication
+Retry handling
+Failure recovery
+Questions
+What is the difference between a database and a queue?
+When should data be written directly to a database?
+When should an event be placed in a queue?
+Can a queue replace a database?
+Can a database act as a queue?
+Why should email requests be placed in a queue?
+What happens if the consumer is unavailable?
+How does a queue prevent data loss?
+What is an outbox pattern?
+How do you ensure that both database write and event publication succeed?
+31. Email Notification Architecture
+Subtopics
+API
+Business service
+Database
+Kafka or message queue
+Email consumer
+SMTP provider
+Retry mechanism
+Dead-letter queue
+Email templates
+Delivery status
+Questions
+How should an email-notification system be designed?
+Why should the main API not wait for the email to be sent?
+What component acts as the producer?
+What component acts as the consumer?
+What information should be placed in the event?
+What happens if the email service is down?
+What happens if the SMTP provider is unavailable?
+How should email retries work?
+How do you prevent duplicate emails?
+What is a dead-letter queue?
+How should delivery status be stored?
+Where should email templates be maintained?
+32. Rate Limiting
+Subtopics
+Request limits
+User-based limits
+IP-based limits
+API-key-based limits
+Fixed window
+Sliding window
+Token bucket
+Leaky bucket
+HTTP 429
+Distributed rate limiting
+Redis
+DDoS and API protection
+Questions
+What is rate limiting?
+Why is rate limiting required?
+What happens when 1,000 authentication requests arrive together?
+What is a fixed-window rate limiter?
+What is a sliding-window rate limiter?
+What is the token-bucket algorithm?
+What is the leaky-bucket algorithm?
+What status code should be returned after exceeding a limit?
+What is the Retry-After header?
+Should limits be based on IP address or user identity?
+How is distributed rate limiting implemented?
+Why is Redis commonly used for rate limiting?
+What is the difference between rate limiting, throttling, and concurrency limiting?
+The system-design sessions specifically connected authentication traffic, rate limiting, sync/async decisions, queue usage, and email-notification delivery.
+cloud
++1
+
+Part H: Kafka
+33. Kafka Fundamentals
+Subtopics
+Event streaming
+Message broker
+Producer
+Consumer
+Topic
+Partition
+Offset
+Consumer group
+Broker
+Cluster
+Replication factor
+Leader and follower
+Retention
+Ordering
+Delivery semantics
+Rebalancing
+Questions
+What is Kafka?
+Why is Kafka used?
+What problem does Kafka solve?
+Is Kafka a queue or an event-streaming platform?
+What is a Kafka broker?
+What is a Kafka cluster?
+What is a topic?
+What is a partition?
+Why are topics divided into partitions?
+What is an offset?
+What is a producer?
+What is a consumer?
+What is a consumer group?
+What is a replication factor?
+What are leaders and followers?
+What is message retention?
+Does Kafka delete a message immediately after consumption?
+Does Kafka follow FIFO?
+Is ordering guaranteed across the entire topic?
+What happens if a consumer goes down?
+What happens when the consumer restarts?
+What is consumer rebalancing?
+What happens when a broker goes down?
+What are at-most-once, at-least-once, and exactly-once delivery?
+What is an acknowledgement?
+What is an idempotent producer?
+What are duplicate events?
+What is a dead-letter topic?
+What is the difference between Kafka and RabbitMQ?
+34. Kafka Producer and Consumer in Real Applications
+Real components
+Possible producers
+
+Order service
+Registration service
+Payment service
+Transaction service
+Driver-location service
+Possible consumers
+
+Email service
+Inventory service
+Analytics service
+Audit service
+Fraud-detection service
+Reporting service
+Questions
+Is the producer part of Kafka?
+Is the consumer part of Kafka?
+What is the producer in an order-management system?
+What are the consumers of an OrderCreated event?
+Can one producer publish to multiple topics?
+Can multiple producers publish to the same topic?
+Can multiple consumers read the same event?
+What happens when consumers are in different consumer groups?
+What happens when consumers are in the same consumer group?
+How do multiple consumers share work?
+Can two consumers in the same group read the same partition simultaneously?
+What happens when consumers are more than partitions?
+What happens when partitions are more than consumers?
+How does Kafka assign partitions to consumers?
+How do multiple service instances scale consumption?
+35. Kafka Partitioning, Replication, and Ordering
+Subtopics
+Partition key
+Message distribution
+Partition-level ordering
+Parallel processing
+Replication
+Fault tolerance
+Partition leader
+Replica followers
+Consumer mapping
+Questions
+What is partitioning?
+Why does partitioning improve throughput?
+How does partitioning allow parallel processing?
+How does the producer select a partition?
+What happens if no message key is provided?
+What happens if a key is provided?
+How can all events for one order remain ordered?
+Is partitioning the same as replication?
+What is the purpose of replication?
+How does replication provide fault tolerance?
+What happens if the partition leader fails?
+Can the same message exist in multiple replicas?
+Does each consumer receive a replica copy?
+How many active consumers can process a topic with three partitions?
+What happens when a partition count is increased?
+36. Kafka Practical Setup
+Subtopics
+Kafka local installation
+Docker-based Kafka
+Kafka broker configuration
+Topic creation
+Partition configuration
+Producer commands
+Consumer commands
+Consumer groups
+Offsets
+Docker Compose
+Python Kafka client
+FastAPI and Kafka integration
+Questions
+How do you run Kafka locally?
+How do you run Kafka using Docker?
+How do you create a topic?
+How do you specify the number of partitions?
+How do you configure replication factor?
+How do you list Kafka topics?
+How do you publish test messages?
+How do you consume test messages?
+How do you create a consumer group?
+How do you inspect consumer-group offsets?
+How do you connect a Python application to Kafka?
+How do you publish an event from FastAPI?
+How should a Kafka consumer handle failures?
+How should offset commits be managed?
+How do you prevent the application from blocking while publishing?
+How should message schemas be versioned?
+The latest sessions concentrated on Kafka recap, local setup, topics, partitions, producers, consumers, consumer groups, parallel processing, Docker, and partition-versus-replication clarification.
+cloud
++1
+
+Part I: Performance, Troubleshooting, and Observability
+37. Backend Troubleshooting
+Subtopics
+Reproducing an issue
+Understanding the user problem
+Release comparison
+Logs and error messages
+Database investigation
+External-service failures
+Configuration issues
+Network issues
+Root-cause analysis
+Rollback and mitigation
+Questions
+What should you do when a user reports an application issue?
+Why should the issue be reproduced first?
+How do you verify whether the reported behavior is actually a defect?
+How do you identify whether a recent release caused the issue?
+What should be checked in application logs?
+How do you trace one request across multiple services?
+How do you identify whether the database is causing slowness?
+How do you inspect external API failures?
+How do you distinguish code, configuration, database, and infrastructure problems?
+When should a release be rolled back?
+What information should be collected before changing production code?
+How do you perform root-cause analysis?
+38. Performance Measurement
+Subtopics
+Latency
+Throughput
+Response time
+Execution time
+Percentiles
+Bottlenecks
+Profiling
+Database query time
+External API time
+Network latency
+Application latency
+Load testing
+Concurrency testing
+Questions
+What is latency?
+What is throughput?
+What is the difference between latency and response time?
+How do you measure code execution time?
+How do you measure database-query time?
+How do you measure external API time?
+What are P50, P95, and P99 latency?
+Why is average latency sometimes misleading?
+How do you identify the slowest application layer?
+What happens when application and database are in different environments?
+Why is the same-environment connection usually faster?
+Can application and database operations run concurrently?
+What is connection-pool latency?
+What is load testing?
+What is stress testing?
+What is profiling?
+How do you investigate an endpoint that became slow after a release?
+39. Logging and Observability
+Subtopics
+Logs
+Metrics
+Traces
+Structured logging
+Log levels
+Correlation IDs
+Request IDs
+Trace IDs
+Request duration
+Database duration
+Error rate
+Service health
+Dashboards
+Alerts
+Sensitive data in logs
+Questions
+What is observability?
+What are logs?
+What are metrics?
+What are distributed traces?
+What is the difference between logs, metrics, and traces?
+What are INFO, DEBUG, WARNING, and ERROR levels?
+What should be logged for an incoming request?
+What should not be logged?
+Why should PII not be logged?
+What is a correlation ID?
+What is a request ID?
+What is a trace ID?
+How do you trace a request across microservices?
+How do you measure total request duration?
+How do you isolate database duration from total duration?
+How do metrics help identify performance problems?
+What alerts should be configured?
+Can logs, traces, and metrics be committed to GitHub?
+Why is Git not an appropriate log-storage system?
+Where should production telemetry be stored?
+The troubleshooting discussions focused on reproducing issues, comparing recent releases, measuring request and database durations, and using logs, traces, and metrics to isolate a slow layer.
+cloud
++1
+
+Part J: Additional Subjects You Studied
+40. Excel VBA Automation
+Subtopics
+VBA definition
+Macros
+Sub procedures
+Functions
+Variables
+Loops
+Conditions
+Excel object model
+Workbook and worksheet objects
+Cells and ranges
+Buttons
+Form controls
+UserForms
+TextBoxes
+CommandButtons
+Saving records in worksheets
+VBA error debugging
+Questions
+What is VBA?
+Why is VBA used in Excel?
+What is a macro?
+What is the difference between Sub and Function?
+How do you create a macro?
+How do you run a macro?
+How do you classify numbers as odd or even?
+How do you loop through worksheet rows?
+How do you find the last used row?
+How do you add a button manually?
+How do you create a button using VBA?
+How do you assign a macro to a button?
+What causes “Sub or Function not defined”?
+Why must procedures be placed in a standard module?
+Why should variables such as i and ws be declared?
+How do you create a UserForm?
+How do you store UserForm values in the next empty row?
+How do you clear fields after saving?
+Why should a workbook be saved as .xlsm?
+What is FP&A with VBA?
+Your VBA thread covered odd/even automation, one-click buttons, creating buttons programmatically, debugging procedure errors, and building a UserForm that stores entries in a worksheet.
+cloud
++1
+
+41. Artificial Intelligence and Machine Learning Foundations
+Subtopics
+Artificial Intelligence
+Machine Learning
+Deep Learning
+Neural networks
+Reinforcement learning
+Probabilistic models
+Regular software versus AI systems
+AI history
+Big Data and AI
+Ethical AI
+Reliable and unreliable AI conditions
+AI libraries
+Data preparation
+Model training
+Model evaluation
+Explainability
+Bias
+Questions
+What is AI?
+What is Machine Learning?
+What is Deep Learning?
+What is the difference between AI, ML, and Deep Learning?
+How is regular software different from an AI system?
+What is a neural network?
+What is reinforcement learning?
+What is a probabilistic model?
+How does Big Data benefit AI?
+What are common AI-development risks?
+What is AI bias?
+What is ethical AI?
+What is federated learning?
+Why is human oversight important?
+What makes an AI use case reliable or unreliable?
+What is explainability?
+What AI tools and libraries are commonly used?
+What are the common steps in an ML workflow?
+Why must data be analysed before model training?
+How should missing values be handled?
+42. Python AI Development Tools
+Subtopics
+Python for AI
+Jupyter Notebook
+JupyterLab
+Anaconda
+Google Colab
+NumPy
+Pandas
+Matplotlib
+Plotly
+Scikit-learn
+TensorFlow
+PyTorch
+OpenCV
+CUDA
+Data visualization
+Model building and training
+Questions
+Why is Python popular for AI?
+What is Jupyter Notebook?
+What is JupyterLab?
+What is Anaconda?
+What are the benefits of Anaconda?
+What is Google Colab?
+What is NumPy?
+What is Pandas?
+What is Matplotlib?
+What is Plotly Express?
+How do you create a scatter plot?
+What is Scikit-learn?
+What is TensorFlow?
+What is PyTorch?
+What is OpenCV?
+What is CUDA?
+What command trains a model?
+What is the difference between compiling, fitting, and predicting?
+What is a confusion matrix?
+What is feature importance?
+What is hyperparameter tuning?
+Your course questions covered Python AI development environments, missing values, visualization, ML algorithms, CNNs, Gradient Boosting, model training, evaluation, and computer-vision tools.
+cloud
+
+43. Human-Computer Interaction
+Subtopics
+Purpose of HCI
+HCI objectives
+Usability
+User satisfaction
+Intuitive design
+User studies
+Interface studies
+Interaction studies
+Computer studies
+User types
+User personas
+Task analysis
+Mock-ups
+Prototypes
+Usability testing
+Design tools
+Evaluation tools
+Implementation tools
+HCI disciplines
+History of HCI
+Recent HCI trends
+Questions
+What is HCI?
+What are the main objectives of HCI?
+What is usability?
+What makes an interface intuitive?
+What is the purpose of user studies?
+What is an interface study?
+What is an interaction study?
+What is a computer study?
+How are user types defined?
+What is a user persona?
+Why is user feedback important?
+What is task analysis?
+Why are mock-ups used?
+How do mock-ups help developers?
+What is prototyping?
+What is usability testing?
+What are HCI design tools?
+What are HCI evaluation tools?
+What are HCI implementation tools?
+Which disciplines contribute to HCI?
+How do psychology, ergonomics, computer science, and engineering contribute?
+How has HCI evolved historically?
+What are the recent trends in HCI?
+How are mobile interfaces, VR/AR, speech interaction, and brain-computer interfaces related to HCI?
+What are the success factors of a user-oriented approach?
+Your HCI assessments repeatedly covered objectives, disciplines, user types, mock-ups, tools, historical stages, user-oriented design, task definitions, and recent interface trends.
+cloud
++3
+
+44. Prompt Engineering and LLMs
+Subtopics
+Large Language Models
+Prompts
+Zero-shot prompting
+One-shot prompting
+Few-shot prompting
+Role-based prompting
+Contextual prompting
+Instruction prompting
+Step-by-step prompting
+Self-consistency
+ReAct
+Prompt constraints
+Output formatting
+Questions
+What is an LLM?
+What is prompt engineering?
+What is zero-shot prompting?
+What is one-shot prompting?
+What is few-shot prompting?
+What is role-based prompting?
+What is contextual prompting?
+What is instruction prompting?
+What is step-by-step prompting?
+What is self-consistency prompting?
+What is ReAct prompting?
+How do examples improve results?
+Why should constraints be included in prompts?
+How do you request a specific output format?
+How can prompt engineering be used for backend debugging?
+How can an LLM assist in analysing logs?
+The prompt-engineering discussion covered zero-shot, one-shot, few-shot, role-based, contextual, instruction, step-by-step, self-consistency, and ReAct prompting.
+cloud
+
+Final Consolidated Learning Order
+For training and interview preparation, revise these subjects in this order:
+
+Level 1: Foundations
+Python fundamentals
+OOP
+Client-server architecture
+HTTP request-response lifecycle
+REST APIs
+Git and environment basics
+Virtual environments and package management
+Level 2: Backend Development
+FastAPI
+Pydantic validation
+Middleware and error handling
+Layered architecture
+SQL fundamentals
+Data modelling
+ORM and database connections
+Transactions and ACID
+Level 3: Security and Integration
+Authentication and authorization
+OAuth 2.0
+OIDC
+SSO
+JWT
+External-service integration
+Secrets and token security
+Level 4: Production and System Design
+Docker
+Cloud deployment
+Sync versus async
+Database versus queue
+Email-notification architecture
+Rate limiting
+Kafka
+Performance measurement
+Logging, metrics, and tracing
+Production troubleshooting
+Level 5: Advanced Preparation
+Design patterns
+Scalability
+Consumer groups and Kafka partitioning
+Database optimization
+Distributed-system failures
+Reliability and observability
+Most Important Questions for Your Next Backend Session
+If you have limited preparation time, prioritize these:
+
+Explain the complete HTTP request lifecycle.
+Explain FastAPI architecture from route to database.
+What is the difference between authentication and authorization?
+Explain OAuth 2.0 Authorization Code Flow.
+Explain OAuth, OIDC, SSO, and JWT separately.
+What is the purpose of the Client Secret?
+What is database persistence?
+Explain one-to-one, one-to-many, and many-to-many relationships.
+Explain normalization, joins, indexes, transactions, and ACID.
+What is ORM and connection pooling?
+Explain synchronous versus asynchronous processing.
+When would you use a database and when would you use a queue?
+Design an asynchronous email-notification system.
+What is Kafka and why is it used?
+What are real producers and consumers?
+What is a topic, partition, offset, and consumer group?
+What happens with one producer and multiple consumers?
+What happens when consumers are in the same versus different groups?
+What is the difference between partitioning and replication?
+Does Kafka guarantee FIFO ordering?
+What happens when a consumer or broker goes down?
+What is rate limiting?
+How would you debug a slow endpoint?
+How do logs, metrics, and traces differ?
+How do you identify whether the database is the slow layer?
+How this master list was improved
+Related questions were grouped under one topic rather than repeated across multiple sessions.
+Your direct follow-up questions were retained as preparation questions.
+Training topics were separated from course-assessment and VBA topics.
+The order now follows an actual backend learning path: Python → HTTP → FastAPI → Database → Authentication → Architecture → Kafka → Production troubleshooting.
+
+
+
+
+
+Favicon type
+Sources
+
+
+
+Message Copilot
+
+
+AI-generated content may be incorrect
