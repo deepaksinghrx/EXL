@@ -1,30 +1,13 @@
-AQ.Ab8RN6KKDAXTaFq38J7gBBpXJBcqD0VmdAqMfHNnXd-UFwzfsw
-AQ.Ab8RN6K7qrY2HONKoMcY5Ge68djKydZkmEEcL5BNV2CefStbJw
+Dear [Manager’s Name],
 
-ETL
+I am writing to formally submit my resignation from my position at EXL, as I wish to explore new opportunities that align with my long-term career goals and professional growth.
 
-three json file
-patients details
-health details
-finance detaisl
+I am grateful for the experience and learning opportunities I have gained during my time at EXL. I believe this is the right time for me to take the next step in my career and pursue new challenges.
 
-load data without package
+I would appreciate your support in ensuring a smooth transition and an early release, subject to company policy and approval. Please let me know the necessary exit formalities.
 
-try catch implemented 
+Thank you for your guidance and support.
 
-sturtured it clean , and converted in data frame
-
-laod clean data in drive in csv file
-
-
-
-first learn naive bayes algo gradeietn desent
-
-fundaments of extreme boosting, random forest, desion tree mathematical working like dervivation(formula)
-
-
-semon's health care company data sample dataset
-do analysis simple EDA
-
-
-anova, t test basis how we use in real time 
+Best regards,  
+[Your Full Name]  
+[Employee ID, if applicable]
